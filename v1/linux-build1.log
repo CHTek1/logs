@@ -1,0 +1,1561 @@
+[1m[32m    Updating[0m crates.io index
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/hwcodec`
+From https://github.com/rustdesk-org/hwcodec
+ * [new ref]         0ea7e709d3c48bb6446e33a9cc8fd0e0da5709b9 -> refs/commit/0ea7e709d3c48bb6446e33a9cc8fd0e0da5709b9
+ * [new tag]         0.1.0      -> 0.1.0
+ * [new tag]         0.1.1      -> 0.1.1
+ * [new tag]         0.1.2      -> 0.1.2
+ * [new tag]         0.1.3      -> 0.1.3
+ * [new tag]         0.2.0      -> 0.2.0
+ * [new tag]         0.3.0      -> 0.3.0
+ * [new tag]         0.3.1      -> 0.3.1
+ * [new tag]         0.3.2      -> 0.3.2
+ * [new tag]         0.3.3      -> 0.3.3
+ * [new tag]         0.4.0      -> 0.4.0
+ * [new tag]         0.4.10     -> 0.4.10
+ * [new tag]         0.4.11     -> 0.4.11
+ * [new tag]         0.4.12     -> 0.4.12
+ * [new tag]         0.4.13     -> 0.4.13
+ * [new tag]         0.4.14     -> 0.4.14
+ * [new tag]         0.4.15     -> 0.4.15
+ * [new tag]         0.4.16     -> 0.4.16
+ * [new tag]         0.4.17     -> 0.4.17
+ * [new tag]         0.4.18     -> 0.4.18
+ * [new tag]         0.4.2      -> 0.4.2
+ * [new tag]         0.4.3      -> 0.4.3
+ * [new tag]         0.4.5      -> 0.4.5
+ * [new tag]         0.4.7      -> 0.4.7
+ * [new tag]         0.4.8      -> 0.4.8
+ * [new tag]         0.4.9      -> 0.4.9
+ * [new tag]         0.5.0      -> 0.5.0
+[1m[32m    Updating[0m git submodule `https://github.com/rustdesk-org/externals.git`
+From https://github.com/rustdesk-org/externals
+ * [new ref]         8903740a1f47884906a6e347ad3d8d56304d9771 -> refs/commit/8903740a1f47884906a6e347ad3d8d56304d9771
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/rust-webm`
+From https://github.com/rustdesk-org/rust-webm
+ * [new ref]         d2c4d3ac133c7b0e4c0f656da710b48391981e64 -> refs/commit/d2c4d3ac133c7b0e4c0f656da710b48391981e64
+[1m[32m    Updating[0m git submodule `https://chromium.googlesource.com/webm/libwebm`
+From https://chromium.googlesource.com/webm/libwebm
+ * [new branch]      main             -> origin/main
+ * [new branch]      sandbox/matthewjheaney/issue_399 -> origin/sandbox/matthewjheaney/issue_399
+ * [new branch]      sandbox/matthewjheaney/mkvstream -> origin/sandbox/matthewjheaney/mkvstream
+ * [new branch]      sandbox/matthewjheaney/webvtt_parser -> origin/sandbox/matthewjheaney/webvtt_parser
+ * [new ref]         HEAD             -> origin/HEAD
+ * [new tag]         libwebm-1.0.0.10 -> libwebm-1.0.0.10
+ * [new tag]         libwebm-1.0.0.11 -> libwebm-1.0.0.11
+ * [new tag]         libwebm-1.0.0.12 -> libwebm-1.0.0.12
+ * [new tag]         libwebm-1.0.0.13 -> libwebm-1.0.0.13
+ * [new tag]         libwebm-1.0.0.14 -> libwebm-1.0.0.14
+ * [new tag]         libwebm-1.0.0.15 -> libwebm-1.0.0.15
+ * [new tag]         libwebm-1.0.0.16 -> libwebm-1.0.0.16
+ * [new tag]         libwebm-1.0.0.17 -> libwebm-1.0.0.17
+ * [new tag]         libwebm-1.0.0.18 -> libwebm-1.0.0.18
+ * [new tag]         libwebm-1.0.0.19 -> libwebm-1.0.0.19
+ * [new tag]         libwebm-1.0.0.2  -> libwebm-1.0.0.2
+ * [new tag]         libwebm-1.0.0.20 -> libwebm-1.0.0.20
+ * [new tag]         libwebm-1.0.0.21 -> libwebm-1.0.0.21
+ * [new tag]         libwebm-1.0.0.22 -> libwebm-1.0.0.22
+ * [new tag]         libwebm-1.0.0.23 -> libwebm-1.0.0.23
+ * [new tag]         libwebm-1.0.0.24 -> libwebm-1.0.0.24
+ * [new tag]         libwebm-1.0.0.25 -> libwebm-1.0.0.25
+ * [new tag]         libwebm-1.0.0.26 -> libwebm-1.0.0.26
+ * [new tag]         libwebm-1.0.0.27 -> libwebm-1.0.0.27
+ * [new tag]         libwebm-1.0.0.28 -> libwebm-1.0.0.28
+ * [new tag]         libwebm-1.0.0.29 -> libwebm-1.0.0.29
+ * [new tag]         libwebm-1.0.0.3  -> libwebm-1.0.0.3
+ * [new tag]         libwebm-1.0.0.30 -> libwebm-1.0.0.30
+ * [new tag]         libwebm-1.0.0.31 -> libwebm-1.0.0.31
+ * [new tag]         libwebm-1.0.0.4  -> libwebm-1.0.0.4
+ * [new tag]         libwebm-1.0.0.5  -> libwebm-1.0.0.5
+ * [new tag]         libwebm-1.0.0.6  -> libwebm-1.0.0.6
+ * [new tag]         libwebm-1.0.0.7  -> libwebm-1.0.0.7
+ * [new tag]         libwebm-1.0.0.8  -> libwebm-1.0.0.8
+ * [new tag]         libwebm-1.0.0.9  -> libwebm-1.0.0.9
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/nokhwa.git`
+From https://github.com/rustdesk-org/nokhwa
+ * [new ref]         744dea9d277dfb18954cef389973c622dd15a85e -> refs/commit/744dea9d277dfb18954cef389973c622dd15a85e
+ * [new tag]         0.10.0     -> 0.10.0
+ * [new tag]         0.10.0-rc1 -> 0.10.0-rc1
+ * [new tag]         0.10.0-rc2 -> 0.10.0-rc2
+ * [new tag]         0.10.0-rc3 -> 0.10.0-rc3
+ * [new tag]         0.10.0-rc4 -> 0.10.0-rc4
+ * [new tag]         0.10.0-rc6 -> 0.10.0-rc6
+ * [new tag]         0.10.1     -> 0.10.1
+ * [new tag]         0.10.2     -> 0.10.2
+ * [new tag]         0.10.3     -> 0.10.3
+ * [new tag]         0.10.5     -> 0.10.5
+ * [new tag]         0.10.6     -> 0.10.6
+ * [new tag]         0.10.7     -> 0.10.7
+ * [new tag]         0.3.0      -> 0.3.0
+ * [new tag]         0.3.1      -> 0.3.1
+ * [new tag]         0.4.3      -> 0.4.3
+ * [new tag]         0.5.0      -> 0.5.0
+ * [new tag]         0.6        -> 0.6
+ * [new tag]         0.7.0      -> 0.7.0
+ * [new tag]         0.8.0      -> 0.8.0
+ * [new tag]         0.9.0      -> 0.9.0
+ * [new tag]         0.9.1      -> 0.9.1
+ * [new tag]         0.9.4      -> 0.9.4
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/confy`
+From https://github.com/rustdesk-org/confy
+ * [new ref]         83db9ec19a2f97e9718aef69e4fc5611bb382479 -> refs/commit/83db9ec19a2f97e9718aef69e4fc5611bb382479
+ * [new tag]         0.3.0      -> 0.3.0
+ * [new tag]         0.3.1      -> 0.3.1
+ * [new tag]         0.4        -> 0.4
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/sysinfo`
+From https://github.com/rustdesk-org/sysinfo
+ * [new ref]         90b1705d909a4902dbbbdea37ee64db17841077d -> refs/commit/90b1705d909a4902dbbbdea37ee64db17841077d
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/tokio-socks`
+From https://github.com/rustdesk-org/tokio-socks
+ * [new ref]         bdb9aa3de5bac41602d0742b8ef6bbc6bfebd127 -> refs/commit/bdb9aa3de5bac41602d0742b8ef6bbc6bfebd127
+ * [new tag]         0.1.0      -> 0.1.0
+ * [new tag]         0.1.1      -> 0.1.1
+ * [new tag]         0.1.2      -> 0.1.2
+ * [new tag]         v0.1.3     -> v0.1.3
+ * [new tag]         v0.2.0     -> v0.2.0
+ * [new tag]         v0.2.2     -> v0.2.2
+ * [new tag]         v0.3.0     -> v0.3.0
+ * [new tag]         v0.4.0     -> v0.4.0
+ * [new tag]         v0.5.0     -> v0.5.0
+ * [new tag]         v0.5.1     -> v0.5.1
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/default_net`
+From https://github.com/rustdesk-org/default_net
+ * [new ref]         78f8f70cd85151a3a2c4a3230d80d5272703c02e -> refs/commit/78f8f70cd85151a3a2c4a3230d80d5272703c02e
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/machine-uid`
+From https://github.com/rustdesk-org/machine-uid
+ * [new ref]         381ff579c1dc3a6c54db9dfec47c44bcb0246542 -> refs/commit/381ff579c1dc3a6c54db9dfec47c44bcb0246542
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/rdev`
+From https://github.com/rustdesk-org/rdev
+ * [new ref]         f9b60b1dd0f3300a1b797d7a74c116683cd232c8 -> refs/commit/f9b60b1dd0f3300a1b797d7a74c116683cd232c8
+ * [new tag]         usbmmidd_v2 -> usbmmidd_v2
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/The-Fat-Controller`
+From https://github.com/rustdesk-org/The-Fat-Controller
+ * [new ref]         78bb80a8e596e4c14ae57c8448f5fca75f91f2b0 -> refs/commit/78bb80a8e596e4c14ae57c8448f5fca75f91f2b0
+[1m[32m    Updating[0m git repository `https://github.com/clslaid/x11-clipboard`
+From https://github.com/clslaid/x11-clipboard
+ * [new ref]         5fc2e73bc01ada3681159b34cf3ea8f0d14cd904 -> refs/commit/5fc2e73bc01ada3681159b34cf3ea8f0d14cd904
+[1m[32m    Updating[0m git repository `https://github.com/clslaid/cacao`
+From https://github.com/clslaid/cacao
+ * [new ref]         05e1536b0b43aaae308ec72c0eed703e875b7b95 -> refs/commit/05e1536b0b43aaae308ec72c0eed703e875b7b95
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/magnum-opus`
+From https://github.com/rustdesk-org/magnum-opus
+ * [new ref]         5cd2bf989c148662fa3a2d9d539a71d71fd1d256 -> refs/commit/5cd2bf989c148662fa3a2d9d539a71d71fd1d256
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/parity-tokio-ipc`
+From https://github.com/rustdesk-org/parity-tokio-ipc
+ * [new ref]         c8c8bbcbabf9be1201c53afb0269b92b9b02d291 -> refs/commit/c8c8bbcbabf9be1201c53afb0269b92b9b02d291
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/keepawake-rs`
+From https://github.com/rustdesk-org/keepawake-rs
+ * [new ref]         64d568586dd16551d02120e19668d2b0fec8e3c9 -> refs/commit/64d568586dd16551d02120e19668d2b0fec8e3c9
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/tao`
+From https://github.com/rustdesk-org/tao
+ * [new ref]           288c219cb0527e509590c2b2d8e7072aa9feb2d3 -> refs/commit/288c219cb0527e509590c2b2d8e7072aa9feb2d3
+ * [new tag]           tao-macros-v0 -> tao-macros-v0
+ * [new tag]           tao-macros-v0.1 -> tao-macros-v0.1
+ * [new tag]           tao-macros-v0.1.0 -> tao-macros-v0.1.0
+ * [new tag]           tao-macros-v0.1.1 -> tao-macros-v0.1.1
+ * [new tag]           tao-v0.10  -> tao-v0.10
+ * [new tag]           tao-v0.10.0 -> tao-v0.10.0
+ * [new tag]           tao-v0.11  -> tao-v0.11
+ * [new tag]           tao-v0.11.0 -> tao-v0.11.0
+ * [new tag]           tao-v0.11.1 -> tao-v0.11.1
+ * [new tag]           tao-v0.11.2 -> tao-v0.11.2
+ * [new tag]           tao-v0.12  -> tao-v0.12
+ * [new tag]           tao-v0.12.0 -> tao-v0.12.0
+ * [new tag]           tao-v0.12.1 -> tao-v0.12.1
+ * [new tag]           tao-v0.12.2 -> tao-v0.12.2
+ * [new tag]           tao-v0.13  -> tao-v0.13
+ * [new tag]           tao-v0.13.0 -> tao-v0.13.0
+ * [new tag]           tao-v0.13.1 -> tao-v0.13.1
+ * [new tag]           tao-v0.13.2 -> tao-v0.13.2
+ * [new tag]           tao-v0.13.3 -> tao-v0.13.3
+ * [new tag]           tao-v0.14  -> tao-v0.14
+ * [new tag]           tao-v0.14.0 -> tao-v0.14.0
+ * [new tag]           tao-v0.15  -> tao-v0.15
+ * [new tag]           tao-v0.15.0 -> tao-v0.15.0
+ * [new tag]           tao-v0.15.1 -> tao-v0.15.1
+ * [new tag]           tao-v0.15.2 -> tao-v0.15.2
+ * [new tag]           tao-v0.15.3 -> tao-v0.15.3
+ * [new tag]           tao-v0.15.4 -> tao-v0.15.4
+ * [new tag]           tao-v0.15.5 -> tao-v0.15.5
+ * [new tag]           tao-v0.15.6 -> tao-v0.15.6
+ * [new tag]           tao-v0.15.7 -> tao-v0.15.7
+ * [new tag]           tao-v0.15.8 -> tao-v0.15.8
+ * [new tag]           tao-v0.15.9 -> tao-v0.15.9
+ * [new tag]           tao-v0.16.0 -> tao-v0.16.0
+ * [new tag]           tao-v0.17  -> tao-v0.17
+ * [new tag]           tao-v0.17.0 -> tao-v0.17.0
+ * [new tag]           tao-v0.18  -> tao-v0.18
+ * [new tag]           tao-v0.18.0 -> tao-v0.18.0
+ * [new tag]           tao-v0.18.1 -> tao-v0.18.1
+ * [new tag]           tao-v0.18.2 -> tao-v0.18.2
+ * [new tag]           tao-v0.18.3 -> tao-v0.18.3
+ * [new tag]           tao-v0.19  -> tao-v0.19
+ * [new tag]           tao-v0.19.0 -> tao-v0.19.0
+ * [new tag]           tao-v0.19.1 -> tao-v0.19.1
+ * [new tag]           tao-v0.2   -> tao-v0.2
+ * [new tag]           tao-v0.2.0 -> tao-v0.2.0
+ * [new tag]           tao-v0.2.1 -> tao-v0.2.1
+ * [new tag]           tao-v0.2.2 -> tao-v0.2.2
+ * [new tag]           tao-v0.2.3 -> tao-v0.2.3
+ * [new tag]           tao-v0.2.4 -> tao-v0.2.4
+ * [new tag]           tao-v0.2.5 -> tao-v0.2.5
+ * [new tag]           tao-v0.2.6 -> tao-v0.2.6
+ * [new tag]           tao-v0.20  -> tao-v0.20
+ * [new tag]           tao-v0.20.0 -> tao-v0.20.0
+ * [new tag]           tao-v0.3   -> tao-v0.3
+ * [new tag]           tao-v0.3.0 -> tao-v0.3.0
+ * [new tag]           tao-v0.3.1 -> tao-v0.3.1
+ * [new tag]           tao-v0.4   -> tao-v0.4
+ * [new tag]           tao-v0.4.0 -> tao-v0.4.0
+ * [new tag]           tao-v0.5   -> tao-v0.5
+ * [new tag]           tao-v0.5.0 -> tao-v0.5.0
+ * [new tag]           tao-v0.5.1 -> tao-v0.5.1
+ * [new tag]           tao-v0.5.2 -> tao-v0.5.2
+ * [new tag]           tao-v0.6   -> tao-v0.6
+ * [new tag]           tao-v0.6.0 -> tao-v0.6.0
+ * [new tag]           tao-v0.6.1 -> tao-v0.6.1
+ * [new tag]           tao-v0.6.2 -> tao-v0.6.2
+ * [new tag]           tao-v0.6.3 -> tao-v0.6.3
+ * [new tag]           tao-v0.6.4 -> tao-v0.6.4
+ * [new tag]           tao-v0.7   -> tao-v0.7
+ * [new tag]           tao-v0.7.0 -> tao-v0.7.0
+ * [new tag]           tao-v0.8   -> tao-v0.8
+ * [new tag]           tao-v0.8.0 -> tao-v0.8.0
+ * [new tag]           tao-v0.8.1 -> tao-v0.8.1
+ * [new tag]           tao-v0.8.2 -> tao-v0.8.2
+ * [new tag]           tao-v0.8.3 -> tao-v0.8.3
+ * [new tag]           tao-v0.8.4 -> tao-v0.8.4
+ * [new tag]           tao-v0.8.5 -> tao-v0.8.5
+ * [new tag]           tao-v0.9   -> tao-v0.9
+ * [new tag]           tao-v0.9.0 -> tao-v0.9.0
+ * [new tag]           tao-v0.9.1 -> tao-v0.9.1
+ * [new tag]           v0.13.0    -> v0.13.0
+ * [new tag]           v0.14.0    -> v0.14.0
+ * [new tag]           v0.15.0    -> v0.15.0
+ * [new tag]           v0.15.1    -> v0.15.1
+ * [new tag]           v0.16.0    -> v0.16.0
+ * [new tag]           v0.16.1    -> v0.16.1
+ * [new tag]           v0.16.2    -> v0.16.2
+ * [new tag]           v0.17.0    -> v0.17.0
+ * [new tag]           v0.17.1    -> v0.17.1
+ * [new tag]           v0.17.2    -> v0.17.2
+ * [new tag]           v0.18.0    -> v0.18.0
+ * [new tag]           v0.20.0    -> v0.20.0
+ * [new tag]           v0.20.0-alpha1 -> v0.20.0-alpha1
+ * [new tag]           v0.20.0-alpha2 -> v0.20.0-alpha2
+ * [new tag]           v0.20.0-alpha3 -> v0.20.0-alpha3
+ * [new tag]           v0.20.0-alpha4 -> v0.20.0-alpha4
+ * [new tag]           v0.20.0-alpha5 -> v0.20.0-alpha5
+ * [new tag]           v0.20.0-alpha6 -> v0.20.0-alpha6
+ * [new tag]           v0.21.0    -> v0.21.0
+ * [new tag]           v0.22.0    -> v0.22.0
+ * [new tag]           v0.22.1    -> v0.22.1
+ * [new tag]           v0.22.2    -> v0.22.2
+ * [new tag]           v0.23.0    -> v0.23.0
+ * [new tag]           v0.24.0    -> v0.24.0
+ * [new tag]           v0.6.3     -> v0.6.3
+[1m[32m    Updating[0m git repository `https://github.com/tauri-apps/tray-icon`
+From https://github.com/tauri-apps/tray-icon
+ * [new ref]         d4078696edba67b0ab42cef67e6a421a0332c96f -> refs/commit/d4078696edba67b0ab42cef67e6a421a0332c96f
+ * [new tag]         tray-icon-v0.1 -> tray-icon-v0.1
+ * [new tag]         tray-icon-v0.1.1 -> tray-icon-v0.1.1
+ * [new tag]         tray-icon-v0.10 -> tray-icon-v0.10
+ * [new tag]         tray-icon-v0.10.0 -> tray-icon-v0.10.0
+ * [new tag]         tray-icon-v0.11 -> tray-icon-v0.11
+ * [new tag]         tray-icon-v0.11.0 -> tray-icon-v0.11.0
+ * [new tag]         tray-icon-v0.11.1 -> tray-icon-v0.11.1
+ * [new tag]         tray-icon-v0.11.2 -> tray-icon-v0.11.2
+ * [new tag]         tray-icon-v0.11.3 -> tray-icon-v0.11.3
+ * [new tag]         tray-icon-v0.12 -> tray-icon-v0.12
+ * [new tag]         tray-icon-v0.12.0 -> tray-icon-v0.12.0
+ * [new tag]         tray-icon-v0.13 -> tray-icon-v0.13
+ * [new tag]         tray-icon-v0.13.0 -> tray-icon-v0.13.0
+ * [new tag]         tray-icon-v0.13.1 -> tray-icon-v0.13.1
+ * [new tag]         tray-icon-v0.13.2 -> tray-icon-v0.13.2
+ * [new tag]         tray-icon-v0.13.3 -> tray-icon-v0.13.3
+ * [new tag]         tray-icon-v0.13.4 -> tray-icon-v0.13.4
+ * [new tag]         tray-icon-v0.13.5 -> tray-icon-v0.13.5
+ * [new tag]         tray-icon-v0.14 -> tray-icon-v0.14
+ * [new tag]         tray-icon-v0.14.0 -> tray-icon-v0.14.0
+ * [new tag]         tray-icon-v0.14.1 -> tray-icon-v0.14.1
+ * [new tag]         tray-icon-v0.14.2 -> tray-icon-v0.14.2
+ * [new tag]         tray-icon-v0.14.3 -> tray-icon-v0.14.3
+ * [new tag]         tray-icon-v0.2 -> tray-icon-v0.2
+ * [new tag]         tray-icon-v0.2.0 -> tray-icon-v0.2.0
+ * [new tag]         tray-icon-v0.3 -> tray-icon-v0.3
+ * [new tag]         tray-icon-v0.3.0 -> tray-icon-v0.3.0
+ * [new tag]         tray-icon-v0.4 -> tray-icon-v0.4
+ * [new tag]         tray-icon-v0.4.0 -> tray-icon-v0.4.0
+ * [new tag]         tray-icon-v0.4.1 -> tray-icon-v0.4.1
+ * [new tag]         tray-icon-v0.4.2 -> tray-icon-v0.4.2
+ * [new tag]         tray-icon-v0.4.3 -> tray-icon-v0.4.3
+ * [new tag]         tray-icon-v0.4.4 -> tray-icon-v0.4.4
+ * [new tag]         tray-icon-v0.5 -> tray-icon-v0.5
+ * [new tag]         tray-icon-v0.5.0 -> tray-icon-v0.5.0
+ * [new tag]         tray-icon-v0.5.1 -> tray-icon-v0.5.1
+ * [new tag]         tray-icon-v0.5.2 -> tray-icon-v0.5.2
+ * [new tag]         tray-icon-v0.6 -> tray-icon-v0.6
+ * [new tag]         tray-icon-v0.6.0 -> tray-icon-v0.6.0
+ * [new tag]         tray-icon-v0.7 -> tray-icon-v0.7
+ * [new tag]         tray-icon-v0.7.0 -> tray-icon-v0.7.0
+ * [new tag]         tray-icon-v0.7.1 -> tray-icon-v0.7.1
+ * [new tag]         tray-icon-v0.7.2 -> tray-icon-v0.7.2
+ * [new tag]         tray-icon-v0.7.3 -> tray-icon-v0.7.3
+ * [new tag]         tray-icon-v0.7.4 -> tray-icon-v0.7.4
+ * [new tag]         tray-icon-v0.7.5 -> tray-icon-v0.7.5
+ * [new tag]         tray-icon-v0.7.6 -> tray-icon-v0.7.6
+ * [new tag]         tray-icon-v0.7.7 -> tray-icon-v0.7.7
+ * [new tag]         tray-icon-v0.8 -> tray-icon-v0.8
+ * [new tag]         tray-icon-v0.8.0 -> tray-icon-v0.8.0
+ * [new tag]         tray-icon-v0.8.1 -> tray-icon-v0.8.1
+ * [new tag]         tray-icon-v0.8.2 -> tray-icon-v0.8.2
+ * [new tag]         tray-icon-v0.8.3 -> tray-icon-v0.8.3
+ * [new tag]         tray-icon-v0.9 -> tray-icon-v0.9
+ * [new tag]         tray-icon-v0.9.0 -> tray-icon-v0.9.0
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/reqwest`
+From https://github.com/rustdesk-org/reqwest
+ * [new ref]         9e859438203a71eb86ddc294fbebfde14cba7f7c -> refs/commit/9e859438203a71eb86ddc294fbebfde14cba7f7c
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/wallpaper.rs`
+From https://github.com/rustdesk-org/wallpaper.rs
+ * [new ref]         ce4a0cd3f58327c7cc44d15a63706fb0c022bacf -> refs/commit/ce4a0cd3f58327c7cc44d15a63706fb0c022bacf
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/arboard`
+From https://github.com/rustdesk-org/arboard
+ * [new ref]         4e16bad260ea05dd7dcdb68cc7549dad3920b940 -> refs/commit/4e16bad260ea05dd7dcdb68cc7549dad3920b940
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/clipboard-master`
+From https://github.com/rustdesk-org/clipboard-master
+ * [new ref]         4fb62e5b62fb6350d82b571ec7ba94b3cd466695 -> refs/commit/4fb62e5b62fb6350d82b571ec7ba94b3cd466695
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/rust-sciter`
+From https://github.com/rustdesk-org/rust-sciter
+ * [new ref]         5322f3a755a0e6bf999fbc60d1efc35246c0f821 -> refs/commit/5322f3a755a0e6bf999fbc60d1efc35246c0f821
+ * [new tag]         0.4.0      -> 0.4.0
+ * [new tag]         0.4.1      -> 0.4.1
+ * [new tag]         0.4.10     -> 0.4.10
+ * [new tag]         0.4.11     -> 0.4.11
+ * [new tag]         0.4.12     -> 0.4.12
+ * [new tag]         0.4.13     -> 0.4.13
+ * [new tag]         0.4.14     -> 0.4.14
+ * [new tag]         0.4.15     -> 0.4.15
+ * [new tag]         0.4.16     -> 0.4.16
+ * [new tag]         0.4.17     -> 0.4.17
+ * [new tag]         0.4.18     -> 0.4.18
+ * [new tag]         0.4.19     -> 0.4.19
+ * [new tag]         0.4.2      -> 0.4.2
+ * [new tag]         0.4.20     -> 0.4.20
+ * [new tag]         0.4.21     -> 0.4.21
+ * [new tag]         0.4.23     -> 0.4.23
+ * [new tag]         0.4.24     -> 0.4.24
+ * [new tag]         0.4.25     -> 0.4.25
+ * [new tag]         0.4.26     -> 0.4.26
+ * [new tag]         0.4.27     -> 0.4.27
+ * [new tag]         0.4.28     -> 0.4.28
+ * [new tag]         0.4.30     -> 0.4.30
+ * [new tag]         0.5.30     -> 0.5.30
+ * [new tag]         0.5.31     -> 0.5.31
+ * [new tag]         0.5.32     -> 0.5.32
+ * [new tag]         0.5.33     -> 0.5.33
+ * [new tag]         0.5.34     -> 0.5.34
+ * [new tag]         0.5.35     -> 0.5.35
+ * [new tag]         0.5.39     -> 0.5.39
+ * [new tag]         0.5.40     -> 0.5.40
+ * [new tag]         0.5.41     -> 0.5.41
+ * [new tag]         0.5.42     -> 0.5.42
+ * [new tag]         0.5.43     -> 0.5.43
+ * [new tag]         0.5.44     -> 0.5.44
+ * [new tag]         0.5.45     -> 0.5.45
+ * [new tag]         0.5.46     -> 0.5.46
+ * [new tag]         0.5.47     -> 0.5.47
+ * [new tag]         0.5.48     -> 0.5.48
+ * [new tag]         0.5.49     -> 0.5.49
+ * [new tag]         0.5.50     -> 0.5.50
+ * [new tag]         0.5.51     -> 0.5.51
+ * [new tag]         0.5.52     -> 0.5.52
+ * [new tag]         0.5.53     -> 0.5.53
+ * [new tag]         0.5.54     -> 0.5.54
+ * [new tag]         0.5.55     -> 0.5.55
+ * [new tag]         0.5.56     -> 0.5.56
+ * [new tag]         0.5.57     -> 0.5.57
+ * [new tag]         sciter-4.4.6.3 -> sciter-4.4.6.3
+ * [new tag]         sciter-4.4.7.0 -> sciter-4.4.7.0
+ * [new tag]         v0.1.0     -> v0.1.0
+ * [new tag]         v0.2.0     -> v0.2.0
+ * [new tag]         v0.3.0     -> v0.3.0
+ * [new tag]         v0.4.0     -> v0.4.0
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/cpal`
+From https://github.com/rustdesk-org/cpal
+ * [new ref]         6b374bcaed076750ca8fce6da518ab39b882e14a -> refs/commit/6b374bcaed076750ca8fce6da518ab39b882e14a
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/android-wakelock`
+From https://github.com/rustdesk-org/android-wakelock
+ * [new ref]         d0292e5a367e627c4fa6f1ca6bdfad005dca7d90 -> refs/commit/d0292e5a367e627c4fa6f1ca6bdfad005dca7d90
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/evdev`
+From https://github.com/rustdesk-org/evdev
+ * [new ref]         cec616e37790293d2cd2aa54a96601ed6b1b35a9 -> refs/commit/cec616e37790293d2cd2aa54a96601ed6b1b35a9
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/pam`
+From https://github.com/rustdesk-org/pam
+ * [new ref]         7bfd25510202cd269292cbdd7c71f3977a6fd762 -> refs/commit/7bfd25510202cd269292cbdd7c71f3977a6fd762
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/pulsectl`
+From https://github.com/rustdesk-org/pulsectl
+ * [new ref]         aa34dde499aa912a3abc5289cc0b547bd07dd6e2 -> refs/commit/aa34dde499aa912a3abc5289cc0b547bd07dd6e2
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/impersonate-system`
+From https://github.com/rustdesk-org/impersonate-system
+ * [new ref]         2f429010a5a10b1fe5eceb553c6672fd53d20167 -> refs/commit/2f429010a5a10b1fe5eceb553c6672fd53d20167
+[1m[32m    Updating[0m git repository `https://github.com/bjornsnoen/x11-rs`
+From https://github.com/bjornsnoen/x11-rs
+ * [new ref]         c2e9bfaa7b196938f8700245564d8ac5d447786a -> refs/commit/c2e9bfaa7b196938f8700245564d8ac5d447786a
+ * [new tag]         2.18.2     -> 2.18.2
+[1m[32m    Updating[0m git repository `https://github.com/madsmtm/core-foundation-rs.git`
+From https://github.com/madsmtm/core-foundation-rs
+ * [new ref]         7d593d016175755e492a92ef89edca68ac3bd5cd -> refs/commit/7d593d016175755e492a92ef89edca68ac3bd5cd
+ * [new tag]         cocoa-v0.18.1 -> cocoa-v0.18.1
+ * [new tag]         cocoa-v0.19.0 -> cocoa-v0.19.0
+ * [new tag]         cocoa-v0.19.1 -> cocoa-v0.19.1
+ * [new tag]         cocoa-v0.20.0 -> cocoa-v0.20.0
+ * [new tag]         cocoa-v0.20.2 -> cocoa-v0.20.2
+ * [new tag]         cocoa-v0.21.0 -> cocoa-v0.21.0
+ * [new tag]         cocoa-v0.22.0 -> cocoa-v0.22.0
+ * [new tag]         cocoa-v0.24.0 -> cocoa-v0.24.0
+ * [new tag]         core-foundation-sys-v0.6.2 -> core-foundation-sys-v0.6.2
+ * [new tag]         core-foundation-sys-v0.7.0 -> core-foundation-sys-v0.7.0
+ * [new tag]         core-foundation-sys-v0.7.1 -> core-foundation-sys-v0.7.1
+ * [new tag]         core-foundation-sys-v0.8.1 -> core-foundation-sys-v0.8.1
+ * [new tag]         core-foundation-sys-v0.8.2 -> core-foundation-sys-v0.8.2
+ * [new tag]         core-foundation-sys-v0.8.3 -> core-foundation-sys-v0.8.3
+ * [new tag]         core-foundation-v0.6.2 -> core-foundation-v0.6.2
+ * [new tag]         core-foundation-v0.6.4 -> core-foundation-v0.6.4
+ * [new tag]         core-foundation-v0.7.0 -> core-foundation-v0.7.0
+ * [new tag]         core-foundation-v0.7.1 -> core-foundation-v0.7.1
+ * [new tag]         core-foundation-v0.8.0 -> core-foundation-v0.8.0
+ * [new tag]         core-foundation-v0.9.1 -> core-foundation-v0.9.1
+ * [new tag]         core-foundation-v0.9.2 -> core-foundation-v0.9.2
+ * [new tag]         core-graphics-0.19.0 -> core-graphics-0.19.0
+ * [new tag]         core-graphics-0.19.1 -> core-graphics-0.19.1
+ * [new tag]         core-graphics-types-v0.1.1 -> core-graphics-types-v0.1.1
+ * [new tag]         core-graphics-v0.17.2 -> core-graphics-v0.17.2
+ * [new tag]         core-graphics-v0.18.0 -> core-graphics-v0.18.0
+ * [new tag]         core-graphics-v0.19.2 -> core-graphics-v0.19.2
+ * [new tag]         core-graphics-v0.20.0 -> core-graphics-v0.20.0
+ * [new tag]         core-graphics-v0.22.1 -> core-graphics-v0.22.1
+ * [new tag]         core-graphics-v0.22.2 -> core-graphics-v0.22.2
+ * [new tag]         core-graphics-v0.22.3 -> core-graphics-v0.22.3
+ * [new tag]         core-text-15.0.0 -> core-text-15.0.0
+ * [new tag]         core-text-v0.13.1 -> core-text-v0.13.1
+ * [new tag]         core-text-v0.17.0 -> core-text-v0.17.0
+ * [new tag]         core-text-v13.1.0 -> core-text-v13.1.0
+ * [new tag]         core-text-v13.2.0 -> core-text-v13.2.0
+ * [new tag]         core-text-v13.3.0 -> core-text-v13.3.0
+ * [new tag]         core-text-v13.3.1 -> core-text-v13.3.1
+ * [new tag]         core-text-v18.0.1 -> core-text-v18.0.1
+ * [new tag]         core-text-v19.1.0 -> core-text-v19.1.0
+ * [new tag]         core-text-v19.2.0 -> core-text-v19.2.0
+ * [new tag]         io-surface-v0.11.1 -> io-surface-v0.11.1
+ * [new tag]         io-surface-v0.12.0 -> io-surface-v0.12.0
+ * [new tag]         io-surface-v0.13.0 -> io-surface-v0.13.0
+ * [new tag]         io-surface-v0.13.1 -> io-surface-v0.13.1
+ * [new tag]         io-surface-v0.14.0 -> io-surface-v0.14.0
+ * [new tag]         io-surface-v0.15.0 -> io-surface-v0.15.0
+ * [new tag]         io-surface-v0.15.1 -> io-surface-v0.15.1
+ * [new tag]         v.0.16.0   -> v.0.16.0
+ * [new tag]         v0.17.1    -> v0.17.1
+ * [new tag]         v0.2.0     -> v0.2.0
+ * [new tag]         v0.2.1     -> v0.2.1
+ * [new tag]         v0.20.1    -> v0.20.1
+ * [new tag]         v0.3.1     -> v0.3.1
+ * [new tag]         v0.4.5     -> v0.4.5
+ * [new tag]         v0.5.1     -> v0.5.1
+[1m[32m    Updating[0m git repository `https://github.com/yury/cidre.git`
+From https://github.com/yury/cidre
+ * [new ref]           f05c4288f9870c9fab53272ddafd6ec01c7b2dbf -> refs/commit/f05c4288f9870c9fab53272ddafd6ec01c7b2dbf
+[1m[32m    Updating[0m git repository `https://github.com/rustdesk-org/pam-sys`
+From https://github.com/rustdesk-org/pam-sys
+ * [new ref]         3337c9bb9a9c68d7497ec8c93cad2368c26091b7 -> refs/commit/3337c9bb9a9c68d7497ec8c93cad2368c26091b7
+[1m[32m Downloading[0m crates ...
+[1m[32m  Downloaded[0m adler v1.0.2
+[1m[32m  Downloaded[0m ansi_term v0.12.1
+[1m[32m  Downloaded[0m anstream v0.6.14
+[1m[32m  Downloaded[0m arrayvec v0.7.6
+[1m[32m  Downloaded[0m atty v0.2.14
+[1m[32m  Downloaded[0m color_quant v1.1.0
+[1m[32m  Downloaded[0m dasp_frame v0.11.0
+[1m[32m  Downloaded[0m deranged v0.3.11
+[1m[32m  Downloaded[0m inout v0.1.3
+[1m[32m  Downloaded[0m instant v0.1.13
+[1m[32m  Downloaded[0m dasp_slice v0.11.0
+[1m[32m  Downloaded[0m itoa v1.0.11
+[1m[32m  Downloaded[0m data-encoding v2.9.0
+[1m[32m  Downloaded[0m libappindicator-sys v0.9.0
+[1m[32m  Downloaded[0m subtle v2.6.1
+[1m[32m  Downloaded[0m toml_datetime v0.6.3
+[1m[32m  Downloaded[0m glob v0.3.1
+[1m[32m  Downloaded[0m quote v1.0.36
+[1m[32m  Downloaded[0m waker-fn v1.2.0
+[1m[32m  Downloaded[0m zbus_names v2.6.1
+[1m[32m  Downloaded[0m rand v0.6.5
+[1m[32m  Downloaded[0m xdg-home v1.2.0
+[1m[32m  Downloaded[0m gtk-sys v0.18.0
+[1m[32m  Downloaded[0m scoped-tls v1.0.1
+[1m[32m  Downloaded[0m same-file v1.0.6
+[1m[32m  Downloaded[0m ryu v1.0.18
+[1m[32m  Downloaded[0m rustversion v1.0.17
+[1m[32m  Downloaded[0m simd-adler32 v0.3.7
+[1m[32m  Downloaded[0m socket2 v0.4.10
+[1m[32m  Downloaded[0m ring v0.17.8
+[1m[32m  Downloaded[0m sodiumoxide v0.2.7
+[1m[32m  Downloaded[0m libgit2-sys v0.14.2+1.5.1
+[1m[32m  Downloaded[0m libsodium-sys v0.2.7
+[1m[32m  Downloaded[0m libdbus-sys v0.2.5
+[1m[32m  Downloaded[0m winapi v0.3.9
+[1m[32m  Downloaded[0m image v0.25.1
+[1m[32m  Downloaded[0m image v0.24.9
+[1m[32m  Downloaded[0m linux-raw-sys v0.3.8
+[1m[32m  Downloaded[0m socket2 v0.3.19
+[1m[32m  Downloaded[0m smallvec v1.13.2
+[1m[32m  Downloaded[0m slab v0.4.9
+[1m[32m  Downloaded[0m siphasher v0.2.3
+[1m[32m  Downloaded[0m system_shutdown v4.0.1
+[1m[32m  Downloaded[0m system-deps v6.2.2
+[1m[32m  Downloaded[0m sync_wrapper v1.0.2
+[1m[32m  Downloaded[0m syn v2.0.98
+[1m[32m  Downloaded[0m syn v1.0.109
+[1m[32m  Downloaded[0m syn v0.15.44
+[1m[32m  Downloaded[0m strum_macros v0.24.3
+[1m[32m  Downloaded[0m strum_macros v0.18.0
+[1m[32m  Downloaded[0m strum v0.24.1
+[1m[32m  Downloaded[0m strum v0.18.0
+[1m[32m  Downloaded[0m strsim v0.11.1
+[1m[32m  Downloaded[0m strsim v0.8.0
+[1m[32m  Downloaded[0m socket2 v0.5.10
+[1m[32m  Downloaded[0m serde_json v1.0.118
+[1m[32m  Downloaded[0m serde v1.0.203
+[1m[32m  Downloaded[0m rand v0.9.0
+[1m[32m  Downloaded[0m polling v3.7.2
+[1m[32m  Downloaded[0m polling v2.8.0
+[1m[32m  Downloaded[0m png v0.17.13
+[1m[32m  Downloaded[0m piper v0.2.3
+[1m[32m  Downloaded[0m pin-project v1.1.5
+[1m[32m  Downloaded[0m hyper v1.6.0
+[1m[32m  Downloaded[0m http v1.3.1
+[1m[32m  Downloaded[0m hmac v0.12.1
+[1m[32m  Downloaded[0m hashbrown v0.12.3
+[1m[32m  Downloaded[0m petgraph v0.6.5
+[1m[32m  Downloaded[0m mozjpeg-sys v2.2.2
+[1m[32m  Downloaded[0m libz-sys v1.1.18
+[1m[32m  Downloaded[0m libc v0.2.171
+[1m[32m  Downloaded[0m jpeg-decoder v0.3.1
+[1m[32m  Downloaded[0m signature v1.6.4
+[1m[32m  Downloaded[0m signal-hook-registry v1.4.2
+[1m[32m  Downloaded[0m shutdown_hooks v0.1.0
+[1m[32m  Downloaded[0m shlex v1.3.0
+[1m[32m  Downloaded[0m shadow-rs v0.21.0
+[1m[32m  Downloaded[0m sha2 v0.10.8
+[1m[32m  Downloaded[0m sha1 v0.10.6
+[1m[32m  Downloaded[0m serde_urlencoded v0.7.1
+[1m[32m  Downloaded[0m serde_spanned v0.6.6
+[1m[32m  Downloaded[0m serde_repr v0.1.19
+[1m[32m  Downloaded[0m serde_json v0.9.10
+[1m[32m  Downloaded[0m serde_derive v1.0.203
+[1m[32m  Downloaded[0m serde v0.9.15
+[1m[32m  Downloaded[0m semver v1.0.23
+[1m[32m  Downloaded[0m scopeguard v1.2.0
+[1m[32m  Downloaded[0m rustls-webpki v0.103.1
+[1m[32m  Downloaded[0m rustls v0.23.26
+[1m[32m  Downloaded[0m rustix v0.38.34
+[1m[32m  Downloaded[0m rustix v0.37.27
+[1m[32m  Downloaded[0m regex-syntax v0.8.5
+[1m[32m  Downloaded[0m regex-automata v0.4.9
+[1m[32m  Downloaded[0m regex v1.11.1
+[1m[32m  Downloaded[0m rayon-core v1.12.1
+[1m[32m  Downloaded[0m rand_chacha v0.3.1
+[1m[32m  Downloaded[0m rand_chacha v0.1.1
+[1m[32m  Downloaded[0m powerfmt v0.2.0
+[1m[32m  Downloaded[0m pkg-config v0.3.30
+[1m[32m  Downloaded[0m pin-utils v0.1.0
+[1m[32m  Downloaded[0m pin-project-lite v0.2.14
+[1m[32m  Downloaded[0m pin-project-internal v1.1.5
+[1m[32m  Downloaded[0m phf_shared v0.7.24
+[1m[32m  Downloaded[0m phf_generator v0.7.24
+[1m[32m  Downloaded[0m phf_codegen v0.7.24
+[1m[32m  Downloaded[0m phf v0.7.24
+[1m[32m  Downloaded[0m hyper-tls v0.6.0
+[1m[32m  Downloaded[0m hyper-rustls v0.27.6
+[1m[32m  Downloaded[0m httparse v1.10.1
+[1m[32m  Downloaded[0m http-body-util v0.1.3
+[1m[32m  Downloaded[0m http-body v1.0.1
+[1m[32m  Downloaded[0m home v0.5.9
+[1m[32m  Downloaded[0m hex v0.4.3
+[1m[32m  Downloaded[0m heck v0.5.0
+[1m[32m  Downloaded[0m heck v0.4.1
+[1m[32m  Downloaded[0m heck v0.3.3
+[1m[32m  Downloaded[0m hashbrown v0.14.5
+[1m[32m  Downloaded[0m half v2.4.1
+[1m[32m  Downloaded[0m gtk3-macros v0.18.0
+[1m[32m  Downloaded[0m exr v1.72.0
+[1m[32m  Downloaded[0m x11rb-protocol v0.13.1
+[1m[32m  Downloaded[0m mozjpeg v0.10.11
+[1m[32m  Downloaded[0m rustls-platform-verifier v0.5.1
+[1m[32m  Downloaded[0m rustls-pki-types v1.11.0
+[1m[32m  Downloaded[0m rustls-pemfile v2.2.0
+[1m[32m  Downloaded[0m rustls-native-certs v0.8.1
+[1m[32m  Downloaded[0m rustc_version v0.4.0
+[1m[32m  Downloaded[0m rustc-hash v2.1.1
+[1m[32m  Downloaded[0m rustc-hash v1.1.0
+[1m[32m  Downloaded[0m rustc-demangle v0.1.24
+[1m[32m  Downloaded[0m rust-ini v0.18.0
+[1m[32m  Downloaded[0m rtoolbox v0.0.2
+[1m[32m  Downloaded[0m rpassword v7.3.1
+[1m[32m  Downloaded[0m rgb v0.8.50
+[1m[32m  Downloaded[0m repng v0.2.2
+[1m[32m  Downloaded[0m rayon v1.10.0
+[1m[32m  Downloaded[0m raw-window-handle v0.6.2
+[1m[32m  Downloaded[0m rand_xorshift v0.1.1
+[1m[32m  Downloaded[0m rand_pcg v0.1.2
+[1m[32m  Downloaded[0m rand_os v0.1.3
+[1m[32m  Downloaded[0m rand_jitter v0.1.4
+[1m[32m  Downloaded[0m rand_isaac v0.1.1
+[1m[32m  Downloaded[0m rand_hc v0.1.0
+[1m[32m  Downloaded[0m rand_core v0.9.3
+[1m[32m  Downloaded[0m rand_core v0.6.4
+[1m[32m  Downloaded[0m rand_core v0.4.2
+[1m[32m  Downloaded[0m rand_core v0.3.1
+[1m[32m  Downloaded[0m rand_chacha v0.9.0
+[1m[32m  Downloaded[0m gtk v0.18.1
+[1m[32m  Downloaded[0m futures-core v0.3.31
+[1m[32m  Downloaded[0m futures-channel v0.3.31
+[1m[32m  Downloaded[0m futures v0.3.30
+[1m[32m  Downloaded[0m flume v0.11.0
+[1m[32m  Downloaded[0m env_logger v0.11.6
+[1m[32m  Downloaded[0m dunce v1.0.5
+[1m[32m  Downloaded[0m zerocopy v0.8.14
+[1m[32m  Downloaded[0m zerocopy v0.7.34
+[1m[32m  Downloaded[0m zbus v3.15.2
+[1m[32m  Downloaded[0m x11rb v0.13.1
+[1m[32m  Downloaded[0m unicode-width v0.1.13
+[1m[32m  Downloaded[0m tokio-util v0.7.11
+[1m[32m  Downloaded[0m tokio v1.44.2
+[1m[32m  Downloaded[0m tiff v0.9.1
+[1m[32m  Downloaded[0m flexi_logger v0.27.4
+[1m[32m  Downloaded[0m openssl v0.10.68
+[1m[32m  Downloaded[0m object v0.36.1
+[1m[32m  Downloaded[0m nix v0.29.0
+[1m[32m  Downloaded[0m nix v0.28.0
+[1m[32m  Downloaded[0m nix v0.26.4
+[1m[32m  Downloaded[0m nix v0.23.2
+[1m[32m  Downloaded[0m libloading v0.8.4
+[1m[32m  Downloaded[0m idna v0.5.0
+[1m[32m  Downloaded[0m gstreamer-video-sys v0.9.1
+[1m[32m  Downloaded[0m gstreamer-video v0.16.7
+[1m[32m  Downloaded[0m gstreamer-sys v0.9.1
+[1m[32m  Downloaded[0m gstreamer-base-sys v0.9.1
+[1m[32m  Downloaded[0m gstreamer-base v0.16.5
+[1m[32m  Downloaded[0m gstreamer-app-sys v0.9.1
+[1m[32m  Downloaded[0m gstreamer-app v0.16.5
+[1m[32m  Downloaded[0m gstreamer v0.16.7
+[1m[32m  Downloaded[0m gobject-sys v0.18.0
+[1m[32m  Downloaded[0m gobject-sys v0.10.0
+[1m[32m  Downloaded[0m generic-array v0.14.7
+[1m[32m  Downloaded[0m gdkx11-sys v0.18.0
+[1m[32m  Downloaded[0m gdkwayland-sys v0.18.0
+[1m[32m  Downloaded[0m gdk-sys v0.18.0
+[1m[32m  Downloaded[0m gdk-pixbuf-sys v0.18.0
+[1m[32m  Downloaded[0m gdk-pixbuf v0.18.5
+[1m[32m  Downloaded[0m gdk v0.18.0
+[1m[32m  Downloaded[0m futures-util v0.3.31
+[1m[32m  Downloaded[0m futures-task v0.3.31
+[1m[32m  Downloaded[0m futures-sink v0.3.31
+[1m[32m  Downloaded[0m futures-macro v0.3.31
+[1m[32m  Downloaded[0m futures-lite v2.3.0
+[1m[32m  Downloaded[0m futures-lite v1.13.0
+[1m[32m  Downloaded[0m futures-io v0.3.31
+[1m[32m  Downloaded[0m futures-executor v0.3.30
+[1m[32m  Downloaded[0m funty v2.0.0
+[1m[32m  Downloaded[0m form_urlencoded v1.2.1
+[1m[32m  Downloaded[0m foreign-types-shared v0.1.1
+[1m[32m  Downloaded[0m foreign-types v0.3.2
+[1m[32m  Downloaded[0m fon v0.6.0
+[1m[32m  Downloaded[0m fnv v1.0.7
+[1m[32m  Downloaded[0m event-listener-strategy v0.5.2
+[1m[32m  Downloaded[0m event-listener v5.3.1
+[1m[32m  Downloaded[0m event-listener v3.1.0
+[1m[32m  Downloaded[0m event-listener v2.5.3
+[1m[32m  Downloaded[0m errno v0.3.9
+[1m[32m  Downloaded[0m equivalent v1.0.1
+[1m[32m  Downloaded[0m epoll v4.3.3
+[1m[32m  Downloaded[0m env_logger v0.9.3
+[1m[32m  Downloaded[0m env_filter v0.1.3
+[1m[32m  Downloaded[0m enumflags2_derive v0.7.10
+[1m[32m  Downloaded[0m enumflags2 v0.7.10
+[1m[32m  Downloaded[0m enum-map-derive v0.17.0
+[1m[32m  Downloaded[0m enum-map v2.7.3
+[1m[32m  Downloaded[0m enquote v1.1.0
+[1m[32m  Downloaded[0m either v1.13.0
+[1m[32m  Downloaded[0m ed25519 v1.5.3
+[1m[32m  Downloaded[0m dtoa v0.4.8
+[1m[32m  Downloaded[0m dpi v0.1.1
+[1m[32m  Downloaded[0m downcast-rs v1.2.1
+[1m[32m  Downloaded[0m dlv-list v0.3.0
+[1m[32m  Downloaded[0m dlopen_derive v0.1.4
+[1m[32m  Downloaded[0m dlopen v0.1.8
+[1m[32m  Downloaded[0m dlib v0.5.2
+[1m[32m  Downloaded[0m dirs-sys-next v0.1.2
+[1m[32m  Downloaded[0m dirs-sys v0.4.1
+[1m[32m  Downloaded[0m dirs-next v2.0.0
+[1m[32m  Downloaded[0m dirs v5.0.1
+[1m[32m  Downloaded[0m directories-next v2.0.0
+[1m[32m  Downloaded[0m zstd v0.11.2+zstd.1.5.2
+[1m[32m  Downloaded[0m zip v0.6.6
+[1m[32m  Downloaded[0m zeroize v1.8.1
+[1m[32m  Downloaded[0m zbus_macros v3.15.2
+[1m[32m  Downloaded[0m webpki-roots v0.26.9
+[1m[32m  Downloaded[0m vcpkg v0.2.15
+[1m[32m  Downloaded[0m x11-dl v2.21.0
+[1m[32m  Downloaded[0m x11-clipboard v0.9.2
+[1m[32m  Downloaded[0m x11 v2.21.0
+[1m[32m  Downloaded[0m wyz v0.5.1
+[1m[32m  Downloaded[0m wol-rs v1.0.1
+[1m[32m  Downloaded[0m wl-clipboard-rs v0.9.0
+[1m[32m  Downloaded[0m winres v0.1.12
+[1m[32m  Downloaded[0m winnow v0.5.40
+[1m[32m  Downloaded[0m wayland-sys v0.31.4
+[1m[32m  Downloaded[0m wayland-scanner v0.31.4
+[1m[32m  Downloaded[0m wayland-protocols-wlr v0.3.3
+[1m[32m  Downloaded[0m wayland-protocols v0.32.3
+[1m[32m  Downloaded[0m wayland-client v0.31.5
+[1m[32m  Downloaded[0m wayland-backend v0.3.6
+[1m[32m  Downloaded[0m version_check v0.9.4
+[1m[32m  Downloaded[0m version-compare v0.2.0
+[1m[32m  Downloaded[0m version-compare v0.0.10
+[1m[32m  Downloaded[0m vec_map v0.8.2
+[1m[32m  Downloaded[0m v4l v0.14.0
+[1m[32m  Downloaded[0m uuid v1.16.0
+[1m[32m  Downloaded[0m utf8parse v0.2.2
+[1m[32m  Downloaded[0m utf8-width v0.1.7
+[1m[32m  Downloaded[0m utf-8 v0.7.6
+[1m[32m  Downloaded[0m users v0.11.0
+[1m[32m  Downloaded[0m users v0.10.0
+[1m[32m  Downloaded[0m urlencoding v2.1.3
+[1m[32m  Downloaded[0m url v2.5.2
+[1m[32m  Downloaded[0m untrusted v0.9.0
+[1m[32m  Downloaded[0m unicode-xid v0.2.4
+[1m[32m  Downloaded[0m unicode-xid v0.1.0
+[1m[32m  Downloaded[0m unicode-segmentation v1.11.0
+[1m[32m  Downloaded[0m unicode-normalization v0.1.23
+[1m[32m  Downloaded[0m tungstenite v0.26.2
+[1m[32m  Downloaded[0m tracing v0.1.40
+[1m[32m  Downloaded[0m tower v0.5.2
+[1m[32m  Downloaded[0m totp-rs v5.5.1
+[1m[32m  Downloaded[0m toml v0.8.2
+[1m[32m  Downloaded[0m toml v0.7.8
+[1m[32m  Downloaded[0m tokio-rustls v0.26.0
+[1m[32m  Downloaded[0m rand v0.8.5
+[1m[32m  Downloaded[0m toml_edit v0.20.2
+[1m[32m  Downloaded[0m openssl-sys v0.9.104
+[1m[32m  Downloaded[0m num-bigint v0.4.6
+[1m[32m  Downloaded[0m nom v7.1.3
+[1m[32m  Downloaded[0m muda v0.13.5
+[1m[32m  Downloaded[0m mio v1.0.3
+[1m[32m  Downloaded[0m mio v0.8.11
+[1m[32m  Downloaded[0m minimal-lexical v0.2.1
+[1m[32m  Downloaded[0m memchr v2.7.4
+[1m[32m  Downloaded[0m log v0.4.22
+[1m[32m  Downloaded[0m libm v0.2.8
+[1m[32m  Downloaded[0m lazy_static v1.5.0
+[1m[32m  Downloaded[0m itertools v0.9.0
+[1m[32m  Downloaded[0m indexmap v2.2.6
+[1m[32m  Downloaded[0m v4l2-sys-mit v0.3.0
+[1m[32m  Downloaded[0m try-lock v0.2.5
+[1m[32m  Downloaded[0m tree_magic_mini v3.1.5
+[1m[32m  Downloaded[0m tracing-core v0.1.32
+[1m[32m  Downloaded[0m tracing-attributes v0.1.27
+[1m[32m  Downloaded[0m tower-service v0.3.3
+[1m[32m  Downloaded[0m tower-layer v0.3.3
+[1m[32m  Downloaded[0m toml v0.5.11
+[1m[32m  Downloaded[0m tokio-tungstenite v0.26.2
+[1m[32m  Downloaded[0m tokio-socks v0.5.2
+[1m[32m  Downloaded[0m tokio-native-tls v0.3.1
+[1m[32m  Downloaded[0m tokio-macros v2.5.0
+[1m[32m  Downloaded[0m time-core v0.1.2
+[1m[32m  Downloaded[0m time v0.3.36
+[1m[32m  Downloaded[0m thiserror-impl v2.0.11
+[1m[32m  Downloaded[0m thiserror-impl v1.0.61
+[1m[32m  Downloaded[0m thiserror v2.0.11
+[1m[32m  Downloaded[0m thiserror v1.0.61
+[1m[32m  Downloaded[0m termcolor v1.4.1
+[1m[32m  Downloaded[0m tempfile v3.10.1
+[1m[32m  Downloaded[0m target_build_utils v0.3.1
+[1m[32m  Downloaded[0m target-lexicon v0.12.14
+[1m[32m  Downloaded[0m tap v1.0.1
+[1m[32m  Downloaded[0m radium v0.7.0
+[1m[32m  Downloaded[0m unicode-ident v1.0.12
+[1m[32m  Downloaded[0m percent-encoding v2.3.1
+[1m[32m  Downloaded[0m pbkdf2 v0.11.0
+[1m[32m  Downloaded[0m paste v1.0.15
+[1m[32m  Downloaded[0m password-hash v0.4.2
+[1m[32m  Downloaded[0m parking_lot_core v0.9.10
+[1m[32m  Downloaded[0m parking_lot v0.12.3
+[1m[32m  Downloaded[0m parking v2.2.0
+[1m[32m  Downloaded[0m pango-sys v0.18.0
+[1m[32m  Downloaded[0m pango v0.18.3
+[1m[32m  Downloaded[0m ordered-stream v0.2.0
+[1m[32m  Downloaded[0m ordered-multimap v0.4.3
+[1m[32m  Downloaded[0m once_cell v1.19.0
+[1m[32m  Downloaded[0m num-traits v0.2.19
+[1m[32m  Downloaded[0m num-rational v0.3.2
+[1m[32m  Downloaded[0m num-integer v0.1.46
+[1m[32m  Downloaded[0m nu-ansi-term v0.49.0
+[1m[32m  Downloaded[0m native-tls v0.2.12
+[1m[32m  Downloaded[0m miniz_oxide v0.7.4
+[1m[32m  Downloaded[0m memoffset v0.6.5
+[1m[32m  Downloaded[0m mac_address v1.1.7
+[1m[32m  Downloaded[0m lock_api v0.4.12
+[1m[32m  Downloaded[0m libpulse-sys v1.21.0
+[1m[32m  Downloaded[0m libpulse-simple-binding v2.28.1
+[1m[32m  Downloaded[0m libloading v0.7.4
+[1m[32m  Downloaded[0m libappindicator v0.9.0
+[1m[32m  Downloaded[0m lazycell v1.3.0
+[1m[32m  Downloaded[0m keyboard-types v0.7.0
+[1m[32m  Downloaded[0m jobserver v0.1.31
+[1m[32m  Downloaded[0m ipnet v2.9.0
+[1m[32m  Downloaded[0m io-lifetimes v1.0.11
+[1m[32m  Downloaded[0m inotify v0.10.2
+[1m[32m  Downloaded[0m iana-time-zone v0.1.60
+[1m[32m  Downloaded[0m quote v0.6.13
+[1m[32m  Downloaded[0m quinn-udp v0.5.12
+[1m[32m  Downloaded[0m quinn-proto v0.11.12
+[1m[32m  Downloaded[0m quinn v0.11.8
+[1m[32m  Downloaded[0m quick-xml v0.34.0
+[1m[32m  Downloaded[0m qrcodegen v1.8.0
+[1m[32m  Downloaded[0m qrcode-generator v4.1.9
+[1m[32m  Downloaded[0m qoi v0.4.1
+[1m[32m  Downloaded[0m protobuf-support v3.7.2
+[1m[32m  Downloaded[0m protobuf-parse v3.7.2
+[1m[32m  Downloaded[0m protobuf-codegen v3.7.2
+[1m[32m  Downloaded[0m protobuf v3.7.2
+[1m[32m  Downloaded[0m proc-macro2 v1.0.93
+[1m[32m  Downloaded[0m proc-macro2 v0.4.30
+[1m[32m  Downloaded[0m proc-macro-error-attr v1.0.4
+[1m[32m  Downloaded[0m proc-macro-error v1.0.4
+[1m[32m  Downloaded[0m proc-macro-crate v2.0.2
+[1m[32m  Downloaded[0m proc-macro-crate v1.3.1
+[1m[32m  Downloaded[0m proc-macro-crate v0.1.5
+[1m[32m  Downloaded[0m prettyplease v0.2.20
+[1m[32m  Downloaded[0m pretty-hex v0.2.1
+[1m[32m  Downloaded[0m ppv-lite86 v0.2.17
+[1m[32m  Downloaded[0m glib v0.18.5
+[1m[32m  Downloaded[0m glib v0.10.3
+[1m[32m  Downloaded[0m git2 v0.16.1
+[1m[32m  Downloaded[0m gio v0.18.4
+[1m[32m  Downloaded[0m gimli v0.29.0
+[1m[32m  Downloaded[0m getrandom v0.2.15
+[1m[32m  Downloaded[0m zstd-sys v2.0.11+zstd.1.5.6
+[1m[32m  Downloaded[0m tinyvec_macros v0.1.1
+[1m[32m  Downloaded[0m pam-macros v0.0.3
+[1m[32m  Downloaded[0m os_pipe v1.2.0
+[1m[32m  Downloaded[0m os-version v0.2.0
+[1m[32m  Downloaded[0m option-ext v0.2.0
+[1m[32m  Downloaded[0m openssl-macros v0.1.1
+[1m[32m  Downloaded[0m num_cpus v1.16.0
+[1m[32m  Downloaded[0m num-derive v0.3.3
+[1m[32m  Downloaded[0m num-conv v0.1.0
+[1m[32m  Downloaded[0m nasm-rs v0.3.0
+[1m[32m  Downloaded[0m nanorand v0.7.0
+[1m[32m  Downloaded[0m mime v0.3.17
+[1m[32m  Downloaded[0m memoffset v0.9.1
+[1m[32m  Downloaded[0m lru-slab v0.1.2
+[1m[32m  Downloaded[0m libxdo-sys v0.11.0
+[1m[32m  Downloaded[0m lebe v0.5.2
+[1m[32m  Downloaded[0m itoa v0.3.4
+[1m[32m  Downloaded[0m is_terminal_polyfill v1.70.0
+[1m[32m  Downloaded[0m bzip2-sys v0.1.11+1.0.8
+[1m[32m  Downloaded[0m glib-sys v0.18.1
+[1m[32m  Downloaded[0m glib-sys v0.10.1
+[1m[32m  Downloaded[0m glib-macros v0.18.5
+[1m[32m  Downloaded[0m glib-macros v0.10.1
+[1m[32m  Downloaded[0m gio-sys v0.18.1
+[1m[32m  Downloaded[0m gif v0.13.1
+[1m[32m  Downloaded[0m getrandom v0.3.2
+[1m[32m  Downloaded[0m flate2 v1.0.30
+[1m[32m  Downloaded[0m fixedbitset v0.4.2
+[1m[32m  Downloaded[0m filetime v0.2.23
+[1m[32m  Downloaded[0m field-offset v0.3.6
+[1m[32m  Downloaded[0m fdeflate v0.3.4
+[1m[32m  Downloaded[0m fastrand v2.1.0
+[1m[32m  Downloaded[0m fastrand v1.9.0
+[1m[32m  Downloaded[0m digest v0.10.7
+[1m[32m  Downloaded[0m derivative v2.2.0
+[1m[32m  Downloaded[0m zvariant_utils v1.0.1
+[1m[32m  Downloaded[0m zvariant_derive v3.15.2
+[1m[32m  Downloaded[0m zvariant v3.15.2
+[1m[32m  Downloaded[0m zune-inflate v0.2.54
+[1m[32m  Downloaded[0m zstd-safe v7.1.0
+[1m[32m  Downloaded[0m zstd-safe v5.0.2+zstd.1.5.2
+[1m[32m  Downloaded[0m zstd v0.13.1
+[1m[32m  Downloaded[0m widestring v1.1.0
+[1m[32m  Downloaded[0m whoami v1.6.0
+[1m[32m  Downloaded[0m which v4.4.2
+[1m[32m  Downloaded[0m weezl v0.1.8
+[1m[32m  Downloaded[0m webpki-roots v1.0.0
+[1m[32m  Downloaded[0m want v0.3.1
+[1m[32m  Downloaded[0m walkdir v2.5.0
+[1m[32m  Downloaded[0m unicode-bidi v0.3.15
+[1m[32m  Downloaded[0m tzdb_data v0.1.2
+[1m[32m  Downloaded[0m tzdb v0.6.1
+[1m[32m  Downloaded[0m tzdb v0.5.10
+[1m[32m  Downloaded[0m tz-rs v0.6.14
+[1m[32m  Downloaded[0m typenum v1.17.0
+[1m[32m  Downloaded[0m toml_edit v0.19.15
+[1m[32m  Downloaded[0m tinyvec v1.6.1
+[1m[32m  Downloaded[0m openssl-probe v0.1.5
+[1m[32m  Downloaded[0m num_threads v0.1.7
+[1m[32m  Downloaded[0m num-traits v0.1.43
+[1m[32m  Downloaded[0m muldiv v0.2.1
+[1m[32m  Downloaded[0m libxdo v0.6.0
+[1m[32m  Downloaded[0m libpulse-simple-sys v1.21.1
+[1m[32m  Downloaded[0m hyper-util v0.1.12
+[1m[32m  Downloaded[0m dbus-crossroads v0.5.2
+[1m[32m  Downloaded[0m dbus v0.9.7
+[1m[32m  Downloaded[0m crossbeam-utils v0.8.20
+[1m[32m  Downloaded[0m crossbeam-epoch v0.9.18
+[1m[32m  Downloaded[0m crossbeam-channel v0.5.13
+[1m[32m  Downloaded[0m const_format v0.2.32
+[1m[32m  Downloaded[0m clap_builder v4.5.8
+[1m[32m  Downloaded[0m clap v4.5.8
+[1m[32m  Downloaded[0m clap v2.34.0
+[1m[32m  Downloaded[0m clang-sys v1.8.1
+[1m[32m  Downloaded[0m chrono v0.4.41
+[1m[32m  Downloaded[0m cfg-expr v0.15.8
+[1m[32m  Downloaded[0m cc v1.2.13
+[1m[32m  Downloaded[0m cairo-rs v0.18.5
+[1m[32m  Downloaded[0m bzip2 v0.4.4
+[1m[32m  Downloaded[0m bytes v1.10.1
+[1m[32m  Downloaded[0m bitvec v1.0.1
+[1m[32m  Downloaded[0m bitflags v2.6.0
+[1m[32m  Downloaded[0m bindgen v0.65.1
+[1m[32m  Downloaded[0m bindgen v0.59.2
+[1m[32m  Downloaded[0m base64 v0.22.1
+[1m[32m  Downloaded[0m backtrace v0.3.73
+[1m[32m  Downloaded[0m async-trait v0.1.80
+[1m[32m  Downloaded[0m async-task v4.7.1
+[1m[32m  Downloaded[0m async-io v2.3.3
+[1m[32m  Downloaded[0m async-io v1.13.0
+[1m[32m  Downloaded[0m async-compression v0.4.11
+[1m[32m  Downloaded[0m aho-corasick v1.1.3
+[1m[32m  Downloaded[0m aes v0.8.4
+[1m[32m  Downloaded[0m time-macros v0.2.18
+[1m[32m  Downloaded[0m textwrap v0.11.0
+[1m[32m  Downloaded[0m termios v0.3.3
+[1m[32m  Downloaded[0m system-deps v1.3.2
+[1m[32m  Downloaded[0m sys-locale v0.3.1
+[1m[32m  Downloaded[0m static_assertions v1.1.0
+[1m[32m  Downloaded[0m spin v0.9.8
+[1m[32m  Downloaded[0m is_debug v1.0.1
+[1m[32m  Downloaded[0m is-terminal v0.4.16
+[1m[32m  Downloaded[0m inotify-sys v0.1.5
+[1m[32m  Downloaded[0m humantime v2.1.0
+[1m[32m  Downloaded[0m html-escape v0.2.13
+[1m[32m  Downloaded[0m default-net v0.14.1
+[1m[32m  Downloaded[0m crossbeam-deque v0.8.5
+[1m[32m  Downloaded[0m crc32fast v1.4.2
+[1m[32m  Downloaded[0m bytemuck v1.21.0
+[1m[32m  Downloaded[0m base64ct v1.6.0
+[1m[32m  Downloaded[0m autocfg v1.3.0
+[1m[32m  Downloaded[0m atk-sys v0.18.0
+[1m[32m  Downloaded[0m atk v0.18.0
+[1m[32m  Downloaded[0m async-lock v3.4.0
+[1m[32m  Downloaded[0m async-lock v2.8.0
+[1m[32m  Downloaded[0m anyhow v1.0.86
+[1m[32m  Downloaded[0m allocator-api2 v0.2.18
+[1m[32m  Downloaded[0m ahash v0.8.11
+[1m[32m  Downloaded[0m dasp_signal v0.11.0
+[1m[32m  Downloaded[0m crossbeam-queue v0.3.11
+[1m[32m  Downloaded[0m concurrent-queue v2.5.0
+[1m[32m  Downloaded[0m clap_lex v0.7.1
+[1m[32m  Downloaded[0m cipher v0.4.4
+[1m[32m  Downloaded[0m cfg-if v1.0.0
+[1m[32m  Downloaded[0m cexpr v0.6.0
+[1m[32m  Downloaded[0m cairo-sys-rs v0.18.2
+[1m[32m  Downloaded[0m block-buffer v0.10.4
+[1m[32m  Downloaded[0m bitflags v1.3.2
+[1m[32m  Downloaded[0m base32 v0.4.0
+[1m[32m  Downloaded[0m atomic-waker v1.1.2
+[1m[32m  Downloaded[0m async-process v1.8.1
+[1m[32m  Downloaded[0m ctrlc v3.4.4
+[1m[32m  Downloaded[0m cpufeatures v0.2.12
+[1m[32m  Downloaded[0m cidr-utils v0.5.11
+[1m[32m  Downloaded[0m byteorder v1.5.0
+[1m[32m  Downloaded[0m blocking v1.6.1
+[1m[32m  Downloaded[0m bit_field v0.10.2
+[1m[32m  Downloaded[0m async-signal v0.2.8
+[1m[32m  Downloaded[0m dasp_sample v0.11.0
+[1m[32m  Downloaded[0m crypto-common v0.1.6
+[1m[32m  Downloaded[0m constant_time_eq v0.2.6
+[1m[32m  Downloaded[0m const_format_proc_macros v0.2.32
+[1m[32m  Downloaded[0m const_fn v0.4.10
+[1m[32m  Downloaded[0m colorchoice v1.0.1
+[1m[32m  Downloaded[0m async-executor v1.12.0
+[1m[32m  Downloaded[0m ahash v0.7.8
+[1m[32m  Downloaded[0m addr2line v0.22.0
+[1m[32m  Downloaded[0m dasp_window v0.11.1
+[1m[32m  Downloaded[0m dasp_rms v0.11.0
+[1m[32m  Downloaded[0m constant_time_eq v0.1.5
+[1m[32m  Downloaded[0m cfg_aliases v0.2.1
+[1m[32m  Downloaded[0m async-fs v1.6.0
+[1m[32m  Downloaded[0m cfg_aliases v0.1.1
+[1m[32m  Downloaded[0m debug-helper v0.3.13
+[1m[32m  Downloaded[0m dasp_ring_buffer v0.11.0
+[1m[32m  Downloaded[0m dasp_peak v0.11.0
+[1m[32m  Downloaded[0m dasp_interpolate v0.11.0
+[1m[32m  Downloaded[0m dasp v0.11.0
+[1m[32m  Downloaded[0m autocfg v0.1.8
+[1m[32m  Downloaded[0m async-broadcast v0.5.1
+[1m[32m  Downloaded[0m anstyle v1.0.7
+[1m[32m  Downloaded[0m async-channel v2.3.1
+[1m[32m  Downloaded[0m anstyle-parse v0.2.4
+[1m[32m  Downloaded[0m dasp_envelope v0.11.0
+[1m[32m  Downloaded[0m async-recursion v1.1.1
+[1m[32m  Downloaded[0m anstyle-query v1.1.0
+[1m[32m  Downloaded[0m libpulse-binding v2.28.1
+[1m[32m  Downloaded[0m memoffset v0.7.1
+[1m[32m  Downloaded[0m peeking_take_while v0.1.2
+[1m[32m  Downloaded[0m linux-raw-sys v0.4.14
+[1m[32m   Compiling[0m libc v0.2.171
+[1m[32m   Compiling[0m proc-macro2 v1.0.93
+[1m[32m   Compiling[0m unicode-ident v1.0.12
+[1m[32m   Compiling[0m pkg-config v0.3.30
+[1m[32m   Compiling[0m autocfg v1.3.0
+[1m[32m   Compiling[0m serde v1.0.203
+[1m[32m   Compiling[0m shlex v1.3.0
+[1m[32m   Compiling[0m cfg-if v1.0.0
+[1m[32m   Compiling[0m quote v1.0.36
+[1m[32m   Compiling[0m syn v2.0.98
+[1m[32m   Compiling[0m jobserver v0.1.31
+[1m[32m   Compiling[0m cc v1.2.13
+[1m[32m   Compiling[0m equivalent v1.0.1
+[1m[32m   Compiling[0m hashbrown v0.14.5
+[1m[32m   Compiling[0m indexmap v2.2.6
+[1m[32m   Compiling[0m thiserror v1.0.61
+[1m[32m   Compiling[0m version_check v0.9.4
+[1m[32m   Compiling[0m syn v1.0.109
+[1m[32m   Compiling[0m serde_spanned v0.6.6
+[1m[32m   Compiling[0m toml_datetime v0.6.3
+[1m[32m   Compiling[0m memchr v2.7.4
+[1m[32m   Compiling[0m winnow v0.5.40
+[1m[32m   Compiling[0m futures-core v0.3.31
+[1m[32m   Compiling[0m pin-project-lite v0.2.14
+[1m[32m   Compiling[0m smallvec v1.13.2
+[1m[32m   Compiling[0m slab v0.4.9
+[1m[32m   Compiling[0m once_cell v1.19.0
+[1m[32m   Compiling[0m crossbeam-utils v0.8.20
+[1m[32m   Compiling[0m toml_edit v0.20.2
+[1m[32m   Compiling[0m target-lexicon v0.12.14
+[1m[32m   Compiling[0m log v0.4.22
+[1m[32m   Compiling[0m serde_derive v1.0.203
+[1m[32m   Compiling[0m thiserror-impl v1.0.61
+[1m[32m   Compiling[0m toml v0.8.2
+[1m[32m   Compiling[0m cfg-expr v0.15.8
+[1m[32m   Compiling[0m futures-macro v0.3.31
+[1m[32m   Compiling[0m version-compare v0.2.0
+[1m[32m   Compiling[0m heck v0.5.0
+[1m[32m   Compiling[0m system-deps v6.2.2
+[1m[32m   Compiling[0m aho-corasick v1.1.3
+[1m[32m   Compiling[0m futures-io v0.3.31
+[1m[32m   Compiling[0m either v1.13.0
+[1m[32m   Compiling[0m regex-syntax v0.8.5
+[1m[32m   Compiling[0m lock_api v0.4.12
+[1m[32m   Compiling[0m futures-sink v0.3.31
+[1m[32m   Compiling[0m toml v0.5.11
+[1m[32m   Compiling[0m bitflags v2.6.0
+[1m[32m   Compiling[0m rustix v0.38.34
+[1m[32m   Compiling[0m regex-automata v0.4.9
+[1m[32m   Compiling[0m typenum v1.17.0
+[1m[32m   Compiling[0m futures-channel v0.3.31
+[1m[32m   Compiling[0m futures-task v0.3.31
+[1m[32m   Compiling[0m pin-utils v0.1.0
+[1m[32m   Compiling[0m linux-raw-sys v0.4.14
+[1m[32m   Compiling[0m futures-util v0.3.31
+[1m[32m   Compiling[0m regex v1.11.1
+[1m[32m   Compiling[0m generic-array v0.14.7
+[1m[32m   Compiling[0m getrandom v0.2.15
+[1m[32m   Compiling[0m home v0.5.9
+[1m[32m   Compiling[0m glob v0.3.1
+[1m[32m   Compiling[0m bitflags v1.3.2
+[1m[32m   Compiling[0m which v4.4.2
+[1m[32m   Compiling[0m clang-sys v1.8.1
+[1m[32m   Compiling[0m parking_lot_core v0.9.10
+[1m[32m   Compiling[0m unicode-segmentation v1.11.0
+[1m[32m   Compiling[0m scopeguard v1.2.0
+[1m[32m   Compiling[0m lazy_static v1.5.0
+[1m[32m   Compiling[0m minimal-lexical v0.2.1
+[1m[32m   Compiling[0m libloading v0.8.4
+[1m[32m   Compiling[0m heck v0.3.3
+[1m[32m   Compiling[0m nom v7.1.3
+[1m[32m   Compiling[0m num-traits v0.2.19
+[1m[32m   Compiling[0m strum_macros v0.18.0
+[1m[32m   Compiling[0m peeking_take_while v0.1.2
+[1m[32m   Compiling[0m lazycell v1.3.0
+[1m[32m   Compiling[0m version-compare v0.0.10
+[1m[32m   Compiling[0m rustc-hash v1.1.0
+[1m[32m   Compiling[0m strum v0.18.0
+[1m[32m   Compiling[0m system-deps v1.3.2
+[1m[32m   Compiling[0m cexpr v0.6.0
+[1m[32m   Compiling[0m bytes v1.10.1
+[1m[32m   Compiling[0m ring v0.17.8
+[1m[32m   Compiling[0m simd-adler32 v0.3.7
+[1m[32m   Compiling[0m anyhow v1.0.86
+[1m[32m   Compiling[0m glib-sys v0.18.1
+[1m[32m   Compiling[0m tokio-macros v2.5.0
+[1m[32m   Compiling[0m adler v1.0.2
+[1m[32m   Compiling[0m miniz_oxide v0.7.4
+[1m[32m   Compiling[0m proc-macro-error-attr v1.0.4
+[1m[32m   Compiling[0m futures-executor v0.3.30
+[1m[32m   Compiling[0m gobject-sys v0.18.0
+[1m[32m   Compiling[0m proc-macro-error v1.0.4
+[1m[32m   Compiling[0m getrandom v0.3.2
+[1m[32m   Compiling[0m subtle v2.6.1
+[1m[32m   Compiling[0m glib-sys v0.10.1
+[1m[32m   Compiling[0m atty v0.2.14
+[1m[32m   Compiling[0m memoffset v0.9.1
+[1m[32m   Compiling[0m unicode-width v0.1.13
+[1m[32m   Compiling[0m thiserror v2.0.11
+[1m[32m   Compiling[0m humantime v2.1.0
+[1m[32m   Compiling[0m textwrap v0.11.0
+[1m[32m   Compiling[0m zstd-sys v2.0.11+zstd.1.5.6
+[1m[32m   Compiling[0m termcolor v1.4.1
+[1m[32m   Compiling[0m vec_map v0.8.2
+[1m[32m   Compiling[0m ansi_term v0.12.1
+[1m[32m   Compiling[0m rustls v0.23.26
+[1m[32m   Compiling[0m strsim v0.8.0
+[1m[32m   Compiling[0m bindgen v0.59.2
+[1m[32m   Compiling[0m env_logger v0.9.3
+[1m[32m   Compiling[0m clap v2.34.0
+[1m[32m   Compiling[0m gobject-sys v0.10.0
+[1m[32m   Compiling[0m gio-sys v0.18.1
+[1m[32m   Compiling[0m thiserror-impl v2.0.11
+[1m[32m   Compiling[0m autocfg v0.1.8
+[1m[32m   Compiling[0m rand_core v0.4.2
+[1m[32m   Compiling[0m rayon-core v1.12.1
+[1m[32m   Compiling[0m parking_lot v0.12.3
+[1m[32m   Compiling[0m crypto-common v0.1.6
+[1m[32m   Compiling[0m signal-hook-registry v1.4.2
+[1m[32m   Compiling[0m crc32fast v1.4.2
+[1m[32m   Compiling[0m httparse v1.10.1
+[1m[32m   Compiling[0m flate2 v1.0.30
+[1m[32m   Compiling[0m spin v0.9.8
+[1m[32m   Compiling[0m toml_edit v0.19.15
+[1m[32m   Compiling[0m byteorder v1.5.0
+[1m[32m   Compiling[0m block-buffer v0.10.4
+[1m[32m   Compiling[0m gstreamer-sys v0.9.1
+[1m[32m   Compiling[0m socket2 v0.5.10
+[1m[32m   Compiling[0m mio v1.0.3
+[1m[32m   Compiling[0m fnv v1.0.7
+[1m[32m   Compiling[0m zerocopy v0.8.14
+[1m[32m   Compiling[0m tokio v1.44.2
+[1m[32m   Compiling[0m digest v0.10.7
+[1m[32m   Compiling[0m rand_core v0.3.1
+[1m[32m   Compiling[0m concurrent-queue v2.5.0
+[1m[32m   Compiling[0m rustls-pki-types v1.11.0
+[1m[32m   Compiling[0m heck v0.4.1
+[1m[32m   Compiling[0m protobuf v3.7.2
+[1m[32m   Compiling[0m ppv-lite86 v0.2.17
+[1m[32m   Compiling[0m proc-macro2 v0.4.30
+[1m[32m   Compiling[0m parking v2.2.0
+[1m[32m   Compiling[0m cpufeatures v0.2.12
+[1m[32m   Compiling[0m cfg_aliases v0.1.1
+[1m[32m   Compiling[0m rand_core v0.6.4
+[1m[32m   Compiling[0m gdk-sys v0.18.0
+[1m[32m   Compiling[0m same-file v1.0.6
+[1m[32m   Compiling[0m itoa v1.0.11
+[1m[32m   Compiling[0m unicode-xid v0.1.0
+[1m[32m   Compiling[0m walkdir v2.5.0
+[1m[32m   Compiling[0m rand_chacha v0.1.1
+[1m[32m   Compiling[0m rand_pcg v0.1.2
+[1m[32m   Compiling[0m cairo-sys-rs v0.18.2
+[1m[32m   Compiling[0m pango-sys v0.18.0
+[1m[32m   Compiling[0m gdk-pixbuf-sys v0.18.0
+[1m[32m   Compiling[0m syn v0.15.44
+[1m[32m   Compiling[0m libsodium-sys v0.2.7
+[1m[32m   Compiling[0m quote v0.6.13
+[1m[32m   Compiling[0m proc-macro-crate v1.3.1
+[1m[32m   Compiling[0m rand v0.6.5
+[1m[32m   Compiling[0m fdeflate v0.3.4
+[1m[32m   Compiling[0m gstreamer-base-sys v0.9.1
+[1m[32m   Compiling[0m crossbeam-epoch v0.9.18
+[1m[32m   Compiling[0m protobuf-support v3.7.2
+[1m[32m   Compiling[0m proc-macro-crate v2.0.2
+[1m[32m   Compiling[0m tracing-attributes v0.1.27
+[1m[32m   Compiling[0m tracing-core v0.1.32
+[1m[32m   Compiling[0m prettyplease v0.2.20
+[1m[32m   Compiling[0m zstd-safe v7.1.0
+[1m[32m   Compiling[0m untrusted v0.9.0
+[1m[32m   Compiling[0m siphasher v0.2.3
+[1m[32m   Compiling[0m bytemuck v1.21.0
+[1m[32m   Compiling[0m fastrand v2.1.0
+[1m[32m   Compiling[0m phf_shared v0.7.24
+[1m[32m   Compiling[0m tempfile v3.10.1
+[1m[32m   Compiling[0m tracing v0.1.40
+[1m[32m   Compiling[0m glib-macros v0.18.5
+[1m[32m   Compiling[0m crossbeam-deque v0.8.5
+[1m[32m   Compiling[0m png v0.17.13
+[1m[32m   Compiling[0m http v1.3.1
+[1m[32m   Compiling[0m sha1 v0.10.6
+[1m[32m   Compiling[0m event-listener v5.3.1
+[1m[32m   Compiling[0m rand_xorshift v0.1.1
+[1m[32m   Compiling[0m rand_isaac v0.1.1
+[1m[32m   Compiling[0m rand_hc v0.1.0
+[1m[32m   Compiling[0m rand_jitter v0.1.4
+[1m[32m   Compiling[0m rand_os v0.1.3
+[1m[32m   Compiling[0m atk-sys v0.18.0
+[1m[32m   Compiling[0m tinyvec_macros v0.1.1
+[1m[32m   Compiling[0m serde_json v1.0.118
+[1m[32m   Compiling[0m tinyvec v1.6.1
+[1m[32m   Compiling[0m event-listener-strategy v0.5.2
+[1m[32m   Compiling[0m dlopen_derive v0.1.4
+[1m[32m   Compiling[0m glib v0.18.5
+[1m[32m   Compiling[0m protobuf-parse v3.7.2
+[1m[32m   Compiling[0m machine-uid v0.3.0 (https://github.com/rustdesk-org/machine-uid#381ff579)
+[1m[32m   Compiling[0m rand_chacha v0.3.1
+[1m[32m   Compiling[0m rustls-webpki v0.103.1
+[1m[32m   Compiling[0m pin-project-internal v1.1.5
+[1m[32m   Compiling[0m backtrace v0.3.73
+[1m[32m   Compiling[0m bindgen v0.65.1
+[1m[32m   Compiling[0m iana-time-zone v0.1.60
+[1m[32m   Compiling[0m percent-encoding v2.3.1
+[1m[32m   Compiling[0m zeroize v1.8.1
+[1m[32m   Compiling[0m semver v1.0.23
+[1m[32m   Compiling[0m rand v0.8.5
+[1m[32m   Compiling[0m protobuf-codegen v3.7.2
+[1m[32m   Compiling[0m phf_generator v0.7.24
+[1m[32m   Compiling[0m unicode-normalization v0.1.23
+[1m[32m   Compiling[0m futures-lite v2.3.0
+[1m[32m   Compiling[0m nasm-rs v0.3.0
+[1m[32m   Compiling[0m x11 v2.21.0
+[1m[32m   Compiling[0m dunce v1.0.5
+[1m[32m   Compiling[0m gio v0.18.4
+[1m[32m   Compiling[0m vcpkg v0.2.15
+[1m[32m   Compiling[0m const_fn v0.4.10
+[1m[32m   Compiling[0m openssl-probe v0.1.5
+[1m[32m   Compiling[0m unicode-bidi v0.3.15
+[1m[32m   Compiling[0m idna v0.5.0
+[1m[32m   Compiling[0m rustls-native-certs v0.8.1
+[1m[32m   Compiling[0m libz-sys v1.1.18
+[1m[32m   Compiling[0m mozjpeg-sys v2.2.2
+[1m[32m   Compiling[0m form_urlencoded v1.2.1
+[1m[32m   Compiling[0m phf_codegen v0.7.24
+[1m[32m   Compiling[0m hbb_common v0.1.0 (/home/runner/work/rustdesk/rustdesk/libs/hbb_common)
+[1m[32m   Compiling[0m rayon v1.10.0
+[1m[32m   Compiling[0m gtk-sys v0.18.0
+[1m[32m   Compiling[0m wayland-sys v0.31.4
+[1m[32m   Compiling[0m dasp_sample v0.11.0
+[1m[32m   Compiling[0m io-lifetimes v1.0.11
+[1m[32m   Compiling[0m utf8parse v0.2.2
+[1m[32m   Compiling[0m event-listener v2.5.3
+[1m[32m   Compiling[0m anstyle-parse v0.2.4
+[1m[32m   Compiling[0m dlib v0.5.2
+[1m[32m   Compiling[0m rustc_version v0.4.0
+[1m[32m   Compiling[0m target_build_utils v0.3.1
+[1m[32m   Compiling[0m url v2.5.2
+[1m[32m   Compiling[0m rand_core v0.9.3
+[1m[32m   Compiling[0m num-traits v0.1.43
+[1m[32m   Compiling[0m nix v0.28.0
+[1m[32m   Compiling[0m num-integer v0.1.46
+[1m[32m   Compiling[0m crossbeam-channel v0.5.13
+[1m[32m   Compiling[0m zvariant_utils v1.0.1
+[1m[32m   Compiling[0m wayland-backend v0.3.6
+[1m[32m   Compiling[0m polling v2.8.0
+[1m[32m   Compiling[0m colorchoice v1.0.1
+[1m[32m   Compiling[0m waker-fn v1.2.0
+[1m[32m   Compiling[0m serde v0.9.15
+[1m[32m   Compiling[0m paste v1.0.15
+[1m[32m   Compiling[0m is_terminal_polyfill v1.70.0
+[1m[32m   Compiling[0m fastrand v1.9.0
+[1m[32m   Compiling[0m rustix v0.37.27
+[1m[32m   Compiling[0m itoa v0.3.4
+[1m[32m   Compiling[0m anstyle-query v1.1.0
+[1m[32m   Compiling[0m dtoa v0.4.8
+[1m[32m   Compiling[0m anstyle v1.0.7
+[1m[32m   Compiling[0m anstream v0.6.14
+[1m[32m   Compiling[0m futures-lite v1.13.0
+[1m[32m   Compiling[0m serde_json v0.9.10
+[1m[32m   Compiling[0m rand_chacha v0.9.0
+[1m[32m   Compiling[0m tz-rs v0.6.14
+[1m[32m   Compiling[0m field-offset v0.3.6
+[1m[32m   Compiling[0m async-lock v2.8.0
+[1m[32m   Compiling[0m dasp_frame v0.11.0
+[1m[32m   Compiling[0m tokio-rustls v0.26.0
+[1m[32m   Compiling[0m image v0.25.1
+[1m[32m   Compiling[0m phf v0.7.24
+[1m[32m   Compiling[0m rgb v0.8.50
+[1m[32m   Compiling[0m sha2 v0.10.8
+[1m[32m   Compiling[0m webpki-roots v0.26.9
+[1m[32m   Compiling[0m proc-macro-crate v0.1.5
+[1m[32m   Compiling[0m itertools v0.9.0
+[1m[32m   Compiling[0m enumflags2_derive v0.7.10
+[1m[32m   Compiling[0m quick-xml v0.34.0
+[1m[32m   Compiling[0m libgit2-sys v0.14.2+1.5.1
+[1m[32m   Compiling[0m dirs-sys-next v0.1.2
+[1m[32m   Compiling[0m libpulse-sys v1.21.0
+[1m[32m   Compiling[0m async-io v1.13.0
+[1m[32m   Compiling[0m memoffset v0.7.1
+[1m[32m   Compiling[0m num-rational v0.3.2
+[1m[32m   Compiling[0m wayland-client v0.31.5
+[1m[32m   Compiling[0m linux-raw-sys v0.3.8
+[1m[32m   Compiling[0m downcast-rs v1.2.1
+[1m[32m   Compiling[0m arrayvec v0.7.6
+[1m[32m   Compiling[0m async-task v4.7.1
+[1m[32m   Compiling[0m scoped-tls v1.0.1
+[1m[32m   Compiling[0m ryu v1.0.18
+[1m[32m   Compiling[0m atomic-waker v1.1.2
+[1m[32m   Compiling[0m piper v0.2.3
+[1m[32m   Compiling[0m wayland-scanner v0.31.4
+[1m[32m   Compiling[0m enumflags2 v0.7.10
+[1m[32m   Compiling[0m glib-macros v0.10.1
+[1m[32m   Compiling[0m gdk-pixbuf v0.18.5
+[1m[32m   Compiling[0m pango v0.18.3
+[1m[32m   Compiling[0m tzdb_data v0.1.2
+[1m[32m   Compiling[0m rand v0.9.0
+[1m[32m   Compiling[0m zvariant_derive v3.15.2
+[1m[32m   Compiling[0m v4l2-sys-mit v0.3.0
+[1m[32m   Compiling[0m dlopen v0.1.8
+[1m[32m   Compiling[0m cairo-rs v0.18.5
+[1m[32m   Compiling[0m async-channel v2.3.1
+[1m[32m   Compiling[0m tokio-util v0.7.11
+[1m[32m   Compiling[0m nanorand v0.7.0
+[1m[32m   Compiling[0m ahash v0.7.8
+[1m[32m   Compiling[0m socket2 v0.4.10
+[1m[32m   Compiling[0m gtk v0.18.1
+[1m[32m   Compiling[0m async-fs v1.6.0
+[1m[32m   Compiling[0m gstreamer v0.16.7
+[1m[32m   Compiling[0m utf-8 v0.7.6
+[1m[32m   Compiling[0m static_assertions v1.1.0
+[1m[32m   Compiling[0m gimli v0.29.0
+[1m[32m   Compiling[0m unicode-xid v0.2.4
+[1m[32m   Compiling[0m powerfmt v0.2.0
+[1m[32m   Compiling[0m data-encoding v2.9.0
+[1m[32m   Compiling[0m signature v1.6.4
+[1m[32m   Compiling[0m ed25519 v1.5.3
+[1m[32m   Compiling[0m tungstenite v0.26.2
+[1m[32m   Compiling[0m deranged v0.3.11
+[1m[32m   Compiling[0m const_format_proc_macros v0.2.32
+[1m[32m   Compiling[0m addr2line v0.22.0
+[1m[32m   Compiling[0m chrono v0.4.41
+[1m[32m   Compiling[0m zvariant v3.15.2
+[1m[32m   Compiling[0m flume v0.11.0
+[1m[32m   Compiling[0m gdk v0.18.0
+[1m[32m   Compiling[0m blocking v1.6.1
+[1m[32m   Compiling[0m tzdb v0.6.1
+[1m[32m   Compiling[0m glib v0.10.3
+[1m[32m   Compiling[0m directories-next v2.0.0
+[1m[32m   Compiling[0m atk v0.18.0
+[1m[32m   Compiling[0m env_filter v0.1.3
+[1m[32m   Compiling[0m pin-project v1.1.5
+[1m[32m   Compiling[0m http-body v1.0.1
+[1m[32m   Compiling[0m gtk3-macros v0.18.0
+[1m[32m   Compiling[0m futures v0.3.30
+[1m[32m   Compiling[0m gstreamer-video-sys v0.9.1
+[1m[32m   Compiling[0m gstreamer-app-sys v0.9.1
+[1m[32m   Compiling[0m crossbeam-queue v0.3.11
+[1m[32m   Compiling[0m num-derive v0.3.3
+[1m[32m   Compiling[0m object v0.36.1
+[1m[32m   Compiling[0m is-terminal v0.4.16
+[1m[32m   Compiling[0m libdbus-sys v0.2.5
+[1m[32m   Compiling[0m pretty-hex v0.2.1
+[1m[32m   Compiling[0m base64 v0.22.1
+[1m[32m   Compiling[0m num_threads v0.1.7
+[1m[32m   Compiling[0m rustc-demangle v0.1.24
+[1m[32m   Compiling[0m nu-ansi-term v0.49.0
+[1m[32m   Compiling[0m num-conv v0.1.0
+[1m[32m   Compiling[0m dasp_ring_buffer v0.11.0
+[1m[32m   Compiling[0m gstreamer-base v0.16.5
+[1m[32m   Compiling[0m libxdo-sys v0.11.0
+[1m[32m   Compiling[0m rustversion v1.0.17
+[1m[32m   Compiling[0m fixedbitset v0.4.2
+[1m[32m   Compiling[0m muldiv v0.2.1
+[1m[32m   Compiling[0m time-core v0.1.2
+[1m[32m   Compiling[0m try-lock v0.2.5
+[1m[32m   Compiling[0m want v0.3.1
+[1m[32m   Compiling[0m time v0.3.36
+[1m[32m   Compiling[0m sodiumoxide v0.2.7
+[1m[32m   Compiling[0m petgraph v0.6.5
+[1m[32m   Compiling[0m env_logger v0.11.6
+[1m[32m   Compiling[0m flexi_logger v0.27.4
+[1m[32m   Compiling[0m confy v0.4.0-2 (https://github.com/rustdesk-org/confy#83db9ec1)
+[1m[32m   Compiling[0m tokio-socks v0.5.2-3 (https://github.com/rustdesk-org/tokio-socks#bdb9aa3d)
+[1m[32m   Compiling[0m nix v0.26.4
+[1m[32m   Compiling[0m wayland-protocols v0.32.3
+[1m[32m   Compiling[0m git2 v0.16.1
+[1m[32m   Compiling[0m tzdb v0.5.10
+[1m[32m   Compiling[0m zstd v0.13.1
+[1m[32m   Compiling[0m zbus_names v2.6.1
+[1m[32m   Compiling[0m toml v0.7.8
+[1m[32m   Compiling[0m const_format v0.2.32
+[1m[32m   Compiling[0m tokio-tungstenite v0.26.2
+[1m[32m   Compiling[0m mac_address v1.1.7
+[1m[32m   Compiling[0m async-executor v1.12.0
+[1m[32m   Compiling[0m dirs-next v2.0.0
+[1m[32m   Compiling[0m default_net v0.1.0 (https://github.com/rustdesk-org/default_net#78f8f70c)
+[1m[32m   Compiling[0m zbus_macros v3.15.2
+[1m[32m   Compiling[0m async-broadcast v0.5.1
+[1m[32m   Compiling[0m sysinfo v0.29.10 (https://github.com/rustdesk-org/sysinfo?branch=rlim_max#90b1705d)
+[1m[32m   Compiling[0m rustls-platform-verifier v0.5.1
+[1m[32m   Compiling[0m uuid v1.16.0
+[1m[32m   Compiling[0m derivative v2.2.0
+[1m[32m   Compiling[0m async-trait v0.1.80
+[1m[32m   Compiling[0m async-recursion v1.1.1
+[1m[32m   Compiling[0m serde_repr v0.1.19
+[1m[32m   Compiling[0m ordered-stream v0.2.0
+[1m[32m   Compiling[0m webm-sys v1.0.4 (https://github.com/rustdesk-org/rust-webm#d2c4d3ac)
+[1m[32m   Compiling[0m bzip2-sys v0.1.11+1.0.8
+[1m[32m   Compiling[0m socket2 v0.3.19
+[1m[32m   Compiling[0m xdg-home v1.2.0
+[1m[32m   Compiling[0m filetime v0.2.23
+[1m[32m   Compiling[0m x11 v2.19.0 (https://github.com/bjornsnoen/x11-rs#c2e9bfaa)
+[1m[32m   Compiling[0m memoffset v0.6.5
+[1m[32m   Compiling[0m is_debug v1.0.1
+[1m[32m   Compiling[0m zstd-safe v5.0.2+zstd.1.5.2
+[1m[32m   Compiling[0m nokhwa-bindings-macos v0.2.2 (https://github.com/rustdesk-org/nokhwa.git?branch=fix_from_raw_parts#744dea9d)
+[1m[32m   Compiling[0m tower-service v0.3.3
+[1m[32m   Compiling[0m hex v0.4.3
+[1m[32m   Compiling[0m radium v0.7.0
+[1m[32m   Compiling[0m option-ext v0.2.0
+[1m[32m   Compiling[0m x11rb-protocol v0.13.1
+[1m[32m   Compiling[0m weezl v0.1.8
+[1m[32m   Compiling[0m whoami v1.6.0
+[0m[1m[33mwarning[0m[0m[1m: unknown lint: `static_mut_refs`[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0mlibs/hbb_common/src/fingerprint.rs:251:17[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m251[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m        #[allow(static_mut_refs)][0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[33m^^^^^^^^^^^^^^^[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m    [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unknown_lints)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unknown lint: `static_mut_refs`[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0mlibs/hbb_common/src/fingerprint.rs:283:17[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m283[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m        #[allow(static_mut_refs)][0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[33m^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: use of deprecated function `rustls_platform_verifier::tls_config`: use the `ConfigVerifierExt` instead[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0mlibs/hbb_common/src/proxy.rs:459:50[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m459[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m        let verifier = rustls_platform_verifier::tls_config();[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m                                                 [0m[0m[1m[33m^^^^^^^^^^[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m    [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(deprecated)]` on by default[0m
+
+[1m[32m   Compiling[0m dirs-sys v0.4.1
+[0m[1m[33mwarning[0m[0m[1m: unused variable: `local_addr`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mlibs/hbb_common/src/websocket.rs:33:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m33[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m        local_addr: Option<SocketAddr>,[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[33m^^^^^^^^^^[0m[0m [0m[0m[1m[33mhelp: if this is intentional, prefix it with an underscore: `_local_addr`[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_variables)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unused variable: `proxy_conf`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0mlibs/hbb_common/src/websocket.rs:34:9[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m34[0m[0m [0m[0m[1m[38;5;12m|[0m[0m [0m[0m        proxy_conf: Option<&Socks5Server>,[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m        [0m[0m[1m[33m^^^^^^^^^^[0m[0m [0m[0m[1m[33mhelp: if this is intentional, prefix it with an underscore: `_proxy_conf`[0m
+
+[1m[32m   Compiling[0m zbus v3.15.2
+[1m[32m   Compiling[0m x11rb v0.13.1
+[1m[32m   Compiling[0m tree_magic_mini v3.1.5
+[1m[32m   Compiling[0m shadow-rs v0.21.0
+[1m[32m   Compiling[0m hashbrown v0.12.3
+[1m[32m   Compiling[0m wayland-protocols-wlr v0.3.3
+[1m[32m   Compiling[0m v4l v0.14.0
+[1m[32m   Compiling[0m hyper v1.6.0
+[1m[32m   Compiling[0m dasp_rms v0.11.0
+[1m[32m   Compiling[0m dasp_peak v0.11.0
+[1m[32m   Compiling[0m jpeg-decoder v0.3.1
+[1m[32m   Compiling[0m async-lock v3.4.0
+[1m[32m   Compiling[0m polling v3.7.2
+[1m[32m   Compiling[0m pam-sys v1.0.0-alpha4 (https://github.com/rustdesk-org/pam-sys?branch=fix/v1.0.0-alpha4_gnuc_va_list#3337c9bb)
+[1m[32m   Compiling[0m hmac v0.12.1
+[1m[32m   Compiling[0m inout v0.1.3
+[1m[32m   Compiling[0m zune-inflate v0.2.54
+[1m[32m   Compiling[0m winres v0.1.12
+[1m[32m   Compiling[0m gdkx11-sys v0.18.0
+[1m[32m   Compiling[0m enum-map-derive v0.17.0
+[1m[32m   Compiling[0m os_pipe v1.2.0
+[1m[32m   Compiling[0m inotify-sys v0.1.5
+[1m[32m   Compiling[0m libloading v0.7.4
+[1m[32m   Compiling[0m half v2.4.1
+[1m[32m   Compiling[0m libpulse-simple-sys v1.21.1
+[1m[32m   Compiling[0m x11-dl v2.21.0
+[1m[32m   Compiling[0m tfc v0.7.0 (https://github.com/rustdesk-org/The-Fat-Controller?branch=history/rebase_upstream_20240722#78bb80a8)
+[1m[32m   Compiling[0m base64ct v1.6.0
+[1m[32m   Compiling[0m winapi v0.3.9
+[1m[32m   Compiling[0m tap v1.0.1
+[1m[32m   Compiling[0m bit_field v0.10.2
+[1m[32m   Compiling[0m cfg_aliases v0.2.1
+[1m[32m   Compiling[0m color_quant v1.1.0
+[1m[32m   Compiling[0m lebe v0.5.2
+[1m[32m   Compiling[0m dlv-list v0.3.0
+[1m[32m   Compiling[0m libm v0.2.8
+[1m[32m   Compiling[0m gstreamer-app v0.16.5
+[1m[32m   Compiling[0m gstreamer-video v0.16.7
+[1m[32m   Compiling[0m ordered-multimap v0.4.3
+[1m[32m   Compiling[0m exr v1.72.0
+[1m[32m   Compiling[0m gif v0.13.1
+[1m[32m   Compiling[0m nix v0.29.0
+[1m[32m   Compiling[0m wyz v0.5.1
+[1m[32m   Compiling[0m password-hash v0.4.2
+[1m[32m   Compiling[0m keyboard-types v0.7.0
+[1m[32m   Compiling[0m libappindicator-sys v0.9.0
+[1m[32m   Compiling[0m inotify v0.10.2
+[1m[32m   Compiling[0m wl-clipboard-rs v0.9.0
+[1m[32m   Compiling[0m enum-map v2.7.3
+[1m[32m   Compiling[0m keepawake v0.4.3 (https://github.com/rustdesk-org/keepawake-rs#64d56858)
+[1m[32m   Compiling[0m cipher v0.4.4
+[1m[32m   Compiling[0m async-io v2.3.3
+[1m[33mwarning[0m[1m:[0m `hbb_common` (lib) generated 5 warnings (5 duplicates)
+[1m[32m   Compiling[0m tiff v0.9.1
+[1m[32m   Compiling[0m dasp_envelope v0.11.0
+[1m[32m   Compiling[0m hyper-util v0.1.12
+[1m[32m   Compiling[0m strum_macros v0.24.3
+[1m[32m   Compiling[0m libxdo v0.6.0
+[1m[32m   Compiling[0m dbus v0.9.7
+[1m[32m   Compiling[0m dirs v5.0.1
+[1m[33mwarning[0m[1m:[0m `hbb_common` (lib) generated 5 warnings (run `cargo fix --lib -p hbb_common` to apply 2 suggestions)
+[1m[32m   Compiling[0m libpulse-binding v2.28.1
+[1m[32m   Compiling[0m dasp_interpolate v0.11.0
+[1m[32m   Compiling[0m scrap v0.5.0 (/home/runner/work/rustdesk/rustdesk/libs/scrap)
+[1m[32m   Compiling[0m magnum-opus v0.4.0 (https://github.com/rustdesk-org/magnum-opus#5cd2bf98)
+[1m[32m   Compiling[0m dasp_window v0.11.1
+[1m[32m   Compiling[0m qoi v0.4.1
+[1m[32m   Compiling[0m webpki-roots v1.0.0
+[1m[32m   Compiling[0m os-version v0.2.0
+[1m[32m   Compiling[0m epoll v4.3.3
+[1m[32m   Compiling[0m mio v0.8.11
+[1m[32m   Compiling[0m sync_wrapper v1.0.2
+[1m[32m   Compiling[0m clipboard v0.1.0 (/home/runner/work/rustdesk/rustdesk/libs/clipboard)
+[1m[32m   Compiling[0m enigo v0.0.14 (/home/runner/work/rustdesk/rustdesk/libs/enigo)
+[1m[32m   Compiling[0m clap_lex v0.7.1
+[1m[32m   Compiling[0m strum v0.24.1
+[1m[32m   Compiling[0m widestring v1.1.0
+[1m[32m   Compiling[0m utf8-width v0.1.7
+[1m[32m   Compiling[0m tower-layer v0.3.3
+[1m[32m   Compiling[0m dpi v0.1.1
+[1m[32m   Compiling[0m strsim v0.11.1
+[1m[32m   Compiling[0m funty v2.0.0
+[1m[32m   Compiling[0m rdev v0.5.0-2 (https://github.com/rustdesk-org/rdev#f9b60b1d)
+[1m[32m   Compiling[0m bitvec v1.0.1
+[1m[32m   Compiling[0m clap_builder v4.5.8
+[1m[32m   Compiling[0m muda v0.13.5
+[1m[32m   Compiling[0m tower v0.5.2
+[1m[32m   Compiling[0m html-escape v0.2.13
+[1m[32m   Compiling[0m rustdesk v1.4.0 (/home/runner/work/rustdesk/rustdesk)
+[1m[32m   Compiling[0m hyper-rustls v0.27.6
+[1m[32m   Compiling[0m image v0.24.9
+[1m[31merror[0m[1m:[0m failed to run custom build command for `scrap v0.5.0 (/home/runner/work/rustdesk/rustdesk/libs/scrap)`
+note: To improve backtraces for build dependencies, set the CARGO_PROFILE_RELEASE_BUILD_OVERRIDE_DEBUG=true environment variable to enable debug information generation.
+
+Caused by:
+  process didn't exit successfully: `/home/runner/work/rustdesk/rustdesk/target/release/build/scrap-da8b476d2417cdcd/build-script-build` (exit status: 101)
+  --- stdout
+  cargo:rerun-if-env-changed=NO_PKG_CONFIG_libyuv
+
+  --- stderr
+  thread 'main' panicked at libs/scrap/build.rs:88:9:
+  Couldn't find VCPKG_ROOT, also can't fallback to homebrew because it's only for macos aarch64.
+  stack backtrace:
+  note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+[1m[33mwarning[0m[1m:[0m build failed, waiting for other jobs to finish...
